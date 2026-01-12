@@ -36,6 +36,7 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       - rid: 5953836984421580800
       - rid: 5953836984421580801
       - rid: 5953836984421580802
@@ -66,6 +67,8 @@ MonoBehaviour:
       - rid: 5953836984421580827
       - rid: 5953836984421580828
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -101,6 +104,9 @@ MonoBehaviour:
       - rid: 8653099547660124188
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -134,7 +140,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580800
+=======
+    - rid: 8653099547660124160
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124160
 >>>>>>> Stashed changes
@@ -161,7 +171,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580801
+=======
+    - rid: 8653099547660124161
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124161
 >>>>>>> Stashed changes
@@ -193,7 +207,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580802
+=======
+    - rid: 8653099547660124162
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124162
 >>>>>>> Stashed changes
@@ -215,7 +233,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580803
+=======
+    - rid: 8653099547660124163
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124163
 >>>>>>> Stashed changes
@@ -236,7 +258,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580804
+=======
+    - rid: 8653099547660124164
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124164
 >>>>>>> Stashed changes
@@ -253,12 +279,15 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580805
       type: {class: UniversalRenderPipelineEditorAssets, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         m_DefaultSettingsVolumeProfile: {fileID: 11400000, guid: eda47df5b85f4f249abf7abd73db2cb2, type: 2}
     - rid: 5953836984421580806
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -270,6 +299,9 @@ MonoBehaviour:
     - rid: 8653099547660124166
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -286,7 +318,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580807
+=======
+    - rid: 8653099547660124167
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124167
 >>>>>>> Stashed changes
@@ -305,6 +341,7 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580808
       type: {class: URPDefaultVolumeProfileSettings, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
@@ -312,6 +349,8 @@ MonoBehaviour:
         m_VolumeProfile: {fileID: 11400000, guid: 76245ea32e47e544991e33c22565d156, type: 2}
     - rid: 5953836984421580809
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -324,6 +363,9 @@ MonoBehaviour:
     - rid: 8653099547660124169
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -343,7 +385,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580810
+=======
+    - rid: 8653099547660124170
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124170
 >>>>>>> Stashed changes
@@ -367,7 +413,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580811
+=======
+    - rid: 8653099547660124171
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124171
 >>>>>>> Stashed changes
@@ -385,7 +435,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580812
+=======
+    - rid: 8653099547660124172
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124172
 >>>>>>> Stashed changes
@@ -404,7 +458,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580813
+=======
+    - rid: 8653099547660124173
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124173
 >>>>>>> Stashed changes
@@ -421,7 +479,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580814
+=======
+    - rid: 8653099547660124174
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124174
 >>>>>>> Stashed changes
@@ -439,7 +501,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580815
+=======
+    - rid: 8653099547660124175
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124175
 >>>>>>> Stashed changes
@@ -501,7 +567,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580816
+=======
+    - rid: 8653099547660124176
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124176
 >>>>>>> Stashed changes
@@ -526,7 +596,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580817
+=======
+    - rid: 8653099547660124177
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124177
 >>>>>>> Stashed changes
@@ -543,7 +617,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580818
+=======
+    - rid: 8653099547660124178
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124178
 >>>>>>> Stashed changes
@@ -561,7 +639,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580819
+=======
+    - rid: 8653099547660124179
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124179
 >>>>>>> Stashed changes
@@ -579,7 +661,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580820
+=======
+    - rid: 8653099547660124180
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124180
 >>>>>>> Stashed changes
@@ -598,12 +684,15 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580821
       type: {class: RenderingDebuggerRuntimeResources, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Core.Runtime}
       data:
         m_version: 0
     - rid: 5953836984421580822
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -615,6 +704,9 @@ MonoBehaviour:
     - rid: 8653099547660124182
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -635,7 +727,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580823
+=======
+    - rid: 8653099547660124183
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124183
 >>>>>>> Stashed changes
@@ -654,7 +750,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580824
+=======
+    - rid: 8653099547660124184
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124184
 >>>>>>> Stashed changes
@@ -693,7 +793,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580825
+=======
+    - rid: 8653099547660124185
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124185
 >>>>>>> Stashed changes
@@ -710,7 +814,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580826
+=======
+    - rid: 8653099547660124186
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124186
 >>>>>>> Stashed changes
@@ -727,7 +835,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580827
+=======
+    - rid: 8653099547660124187
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124187
 >>>>>>> Stashed changes
@@ -749,7 +861,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580828
+=======
+    - rid: 8653099547660124188
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124188
 >>>>>>> Stashed changes
