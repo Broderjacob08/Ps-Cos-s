@@ -42,6 +42,7 @@ public class Movement : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(-1, 1) * speed;
         }
+
         if(Input.GetKey(KeyCode.W) && Input.GetKey(KeyCode.D))
         {
             rb.linearVelocity = new Vector2(1, 1) * speed;
@@ -54,5 +55,6 @@ public class Movement : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(-1, -1) * speed;
         }
+
     }
 }
