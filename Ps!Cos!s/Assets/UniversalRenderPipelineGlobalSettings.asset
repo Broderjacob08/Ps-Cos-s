@@ -35,6 +35,7 @@ MonoBehaviour:
       m_List:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       - rid: 5953836984421580800
       - rid: 5953836984421580801
       - rid: 5953836984421580802
@@ -67,6 +68,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       - rid: 8653099547660124160
       - rid: 8653099547660124161
       - rid: 8653099547660124162
@@ -97,6 +100,9 @@ MonoBehaviour:
       - rid: 8653099547660124187
       - rid: 8653099547660124188
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -127,7 +133,11 @@ MonoBehaviour:
     RefIds:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580800
+=======
+    - rid: 8653099547660124160
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124160
 >>>>>>> Stashed changes
@@ -150,7 +160,11 @@ MonoBehaviour:
         m_DefaultMaskMaterial: {fileID: 2100000, guid: 15d0c3709176029428a0da2f8cecf0b5, type: 2}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580801
+=======
+    - rid: 8653099547660124161
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124161
 >>>>>>> Stashed changes
@@ -178,7 +192,11 @@ MonoBehaviour:
         m_ShaderResourcesVersion: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580802
+=======
+    - rid: 8653099547660124162
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124162
 >>>>>>> Stashed changes
@@ -196,7 +214,11 @@ MonoBehaviour:
         m_DBufferClear: {fileID: 4800000, guid: f056d8bd2a1c7e44e9729144b4c70395, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580803
+=======
+    - rid: 8653099547660124163
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124163
 >>>>>>> Stashed changes
@@ -213,7 +235,11 @@ MonoBehaviour:
         m_DefaultSpriteMaterial: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580804
+=======
+    - rid: 8653099547660124164
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124164
 >>>>>>> Stashed changes
@@ -226,6 +252,7 @@ MonoBehaviour:
         m_Version: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580805
       type: {class: UniversalRenderPipelineEditorAssets, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
@@ -234,12 +261,17 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     - rid: 8653099547660124165
       type: {class: UniversalRenderPipelineEditorAssets, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         m_DefaultSettingsVolumeProfile: {fileID: 11400000, guid: eda47df5b85f4f249abf7abd73db2cb2, type: 2}
     - rid: 8653099547660124166
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -253,7 +285,11 @@ MonoBehaviour:
         m_DefaultSpeedTree9Shader: {fileID: -6465566751694194690, guid: cbd3e1cc4ae141c42a30e33b4d666a61, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580807
+=======
+    - rid: 8653099547660124167
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124167
 >>>>>>> Stashed changes
@@ -268,6 +304,7 @@ MonoBehaviour:
         m_StripScreenCoordOverrideVariants: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580808
       type: {class: URPDefaultVolumeProfileSettings, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
@@ -277,6 +314,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     - rid: 8653099547660124168
       type: {class: URPDefaultVolumeProfileSettings, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
@@ -284,6 +323,9 @@ MonoBehaviour:
         m_VolumeProfile: {fileID: 11400000, guid: 2435b29825024e548a570b1c18899c2e, type: 2}
     - rid: 8653099547660124169
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -300,7 +342,11 @@ MonoBehaviour:
         m_TerrainDetailGrass: {fileID: 4800000, guid: e507fdfead5ca47e8b9a768b51c291a1, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580810
+=======
+    - rid: 8653099547660124170
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124170
 >>>>>>> Stashed changes
@@ -320,7 +366,11 @@ MonoBehaviour:
         m_Version: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580811
+=======
+    - rid: 8653099547660124171
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124171
 >>>>>>> Stashed changes
@@ -334,7 +384,11 @@ MonoBehaviour:
         m_ProbeVolumeSamplingDebugComputeShader: {fileID: 7200000, guid: 53626a513ea68ce47b59dc1299fe3959, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580812
+=======
+    - rid: 8653099547660124172
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124172
 >>>>>>> Stashed changes
@@ -349,7 +403,11 @@ MonoBehaviour:
         m_DebugFontTex: {fileID: 2800000, guid: 26a413214480ef144b2915d6ff4d0beb, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580813
+=======
+    - rid: 8653099547660124173
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124173
 >>>>>>> Stashed changes
@@ -362,7 +420,11 @@ MonoBehaviour:
         m_EnableRenderCompatibilityMode: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580814
+=======
+    - rid: 8653099547660124174
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124174
 >>>>>>> Stashed changes
@@ -376,7 +438,11 @@ MonoBehaviour:
         m_xrMotionVector: {fileID: 4800000, guid: f89aac1e4f84468418fe30e611dff395, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580815
+=======
+    - rid: 8653099547660124175
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124175
 >>>>>>> Stashed changes
@@ -434,7 +500,11 @@ MonoBehaviour:
         m_TexturesResourcesVersion: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580816
+=======
+    - rid: 8653099547660124176
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124176
 >>>>>>> Stashed changes
@@ -455,7 +525,11 @@ MonoBehaviour:
         m_DebugOccluderPS: {fileID: 4800000, guid: b3c92426a88625841ab15ca6a7917248, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580817
+=======
+    - rid: 8653099547660124177
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124177
 >>>>>>> Stashed changes
@@ -468,7 +542,11 @@ MonoBehaviour:
         m_ProbeVolumeDisableStreamingAssets: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580818
+=======
+    - rid: 8653099547660124178
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124178
 >>>>>>> Stashed changes
@@ -482,7 +560,11 @@ MonoBehaviour:
         m_taaCS: {fileID: 7200000, guid: 3923900e2b41b5e47bc25bfdcbcdc9e6, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580819
+=======
+    - rid: 8653099547660124179
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124179
 >>>>>>> Stashed changes
@@ -496,7 +578,11 @@ MonoBehaviour:
         m_EnableValidityChecks: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580820
+=======
+    - rid: 8653099547660124180
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124180
 >>>>>>> Stashed changes
@@ -511,6 +597,7 @@ MonoBehaviour:
         m_StripRuntimeDebugShaders: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580821
       type: {class: RenderingDebuggerRuntimeResources, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Core.Runtime}
       data:
@@ -519,12 +606,17 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     - rid: 8653099547660124181
       type: {class: RenderingDebuggerRuntimeResources, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Core.Runtime}
       data:
         m_version: 0
     - rid: 8653099547660124182
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -542,7 +634,11 @@ MonoBehaviour:
         renderingLayerRT: {fileID: -5126288278712620388, guid: 94a070d33e408384bafc1dea4a565df9, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580823
+=======
+    - rid: 8653099547660124183
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124183
 >>>>>>> Stashed changes
@@ -557,7 +653,11 @@ MonoBehaviour:
         probeVolumeUploadDataL2CS: {fileID: 7200000, guid: 6196f34ed825db14b81fb3eb0ea8d931, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580824
+=======
+    - rid: 8653099547660124184
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124184
 >>>>>>> Stashed changes
@@ -592,7 +692,11 @@ MonoBehaviour:
           - {r: 0, g: 0, b: 1, a: 1}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580825
+=======
+    - rid: 8653099547660124185
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124185
 >>>>>>> Stashed changes
@@ -605,7 +709,11 @@ MonoBehaviour:
         m_CoreCopyPS: {fileID: 4800000, guid: 12dc59547ea167a4ab435097dd0f9add, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580826
+=======
+    - rid: 8653099547660124186
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124186
 >>>>>>> Stashed changes
@@ -618,7 +726,11 @@ MonoBehaviour:
         m_UseBicubicLightmapSampling: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580827
+=======
+    - rid: 8653099547660124187
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124187
 >>>>>>> Stashed changes
@@ -636,7 +748,11 @@ MonoBehaviour:
         numbersDisplayTex: {fileID: 2800000, guid: 73fe53b428c5b3440b7e87ee830b608a, type: 3}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 5953836984421580828
+=======
+    - rid: 8653099547660124188
+>>>>>>> Stashed changes
 =======
     - rid: 8653099547660124188
 >>>>>>> Stashed changes
