@@ -1,22 +1,45 @@
 using UnityEngine;
-
+using System.Collections.Generic;
 public class EnemyPathfinding : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
-    int startpositionx;
-    int startpositiony;
+    
+    //Startvalues for positioning + the empty needed for pathfinding
+    
+    [SerializeField] float startpositionx;
+    [SerializeField] float startpositiony;
+    [SerializeField] float startpositionz;
+    [SerializeField] float speed;
 
-    CheckpointParent checkpointHolder;
+    [SerializeField] CheckpointParent checkpointHolder;
+
+    //public EnemyPathfinding(CheckpointParent checkpointHolder) 
+    //{
+      //  this.checkpointHolder = checkpointHolder;
+    //}
+
+    Rigidbody2D rb;
     
     void Start()
     {
-        transform.position = new Vector3(startpositionx, startpositiony, 0);
+        rb = GetComponent<Rigidbody2D>();
+        transform.position = new Vector3(startpositionx, startpositiony, startpositionz);
+        rb.linearVelocity = (checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position - transform.position);
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.position = checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position-transform.position;
+        if (rb.linearVelocity.magnitude <= 0)
+        {
+            rb.linearVelocity = rb.linearVelocity.normalized;
+        }
+        else
+        {
+            rb.linearVelocity = (checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position - transform.position);
+        }
+        //Checks velocity
+        Debug.Log("Velocity: " + rb.linearVelocity);
     }
 }

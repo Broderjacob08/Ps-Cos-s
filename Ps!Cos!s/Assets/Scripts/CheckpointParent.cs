@@ -7,6 +7,10 @@ public class CheckpointParent : MonoBehaviour
 
     int index;
 
+    bool goforward;
+
+    [SerializeField] bool goInCircles;
+
     public int GetIndex()
     {
         return index;
@@ -14,6 +18,10 @@ public class CheckpointParent : MonoBehaviour
 
     void Start()
     {
+        index = 0;
+
+        goforward = true;
+
         for(int i = 0; i < gameObject.transform.childCount; i++)
         {
             checkpoints.Add(gameObject.transform.GetChild(i).gameObject);
@@ -24,16 +32,38 @@ public class CheckpointParent : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(index >=gameObject.transform.childCount-1)
+        if (goInCircles == true)
         {
-            index = 0;
+            if (index >= gameObject.transform.childCount)
+            {
+                index = 0;
+            }
+        } else if (goInCircles == false)
+        {
+            if (index >= gameObject.transform.childCount - 1)
+            {
+                SetGoForward(false);
+            }
+            if (index <= 0)
+            {
+                SetGoForward(true);
+            }
         }
     }
 
     public void SetIndex(int newIndex)
     {
-        index = index += newIndex;
+        if(goforward == true)
+        {
+            index += newIndex;
+        }else if (goforward == false)
+        {
+            index -= newIndex;
+        }            
     }
 
-
+    void SetGoForward(bool direction)
+    {
+        goforward = direction;
+    }
 }
