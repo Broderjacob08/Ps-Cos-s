@@ -6,7 +6,12 @@ public class Movement : MonoBehaviour
 {
     public float speed = 0.5f;
     Rigidbody2D rb;
-    
+    bool ElevatorKey = false;
+
+    public bool GetElevatorKey()
+    {
+        return ElevatorKey;
+    }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
