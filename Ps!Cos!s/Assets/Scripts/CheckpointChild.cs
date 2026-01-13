@@ -23,6 +23,7 @@ public class CheckpointChild : MonoBehaviour
         if(collision.gameObject.tag == "Enemy")
         {
             ChangeIndex(1);
+            print(collision.gameObject.name + " " + parentObject.GetIndex());
         }
     }
 

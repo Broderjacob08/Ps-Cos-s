@@ -18,6 +18,7 @@ public class CheckpointParent : MonoBehaviour
 
     void Start()
     {
+        print("skapar checkpointparent");
         index = 0;
 
         goforward = true;
@@ -32,23 +33,8 @@ public class CheckpointParent : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (goInCircles == true)
-        {
-            if (index >= gameObject.transform.childCount)
-            {
-                index = 0;
-            }
-        } else if (goInCircles == false)
-        {
-            if (index >= gameObject.transform.childCount - 1)
-            {
-                SetGoForward(false);
-            }
-            if (index <= 0)
-            {
-                SetGoForward(true);
-            }
-        }
+        
+        
     }
 
     public void SetIndex(int newIndex)
@@ -59,7 +45,26 @@ public class CheckpointParent : MonoBehaviour
         }else if (goforward == false)
         {
             index -= newIndex;
-        }            
+        }
+
+        if (goInCircles == true)
+        {
+            if (index >= gameObject.transform.childCount)
+            {
+                index = 0;
+            }
+        }
+        else if (goInCircles == false)
+        {
+            if (index >= gameObject.transform.childCount - 1)
+            {
+                SetGoForward(false);
+            }
+            if (index <= 0)
+            {
+                SetGoForward(true);
+            }
+        }
     }
 
     void SetGoForward(bool direction)

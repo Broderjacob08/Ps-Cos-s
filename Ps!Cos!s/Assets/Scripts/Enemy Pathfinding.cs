@@ -23,23 +23,14 @@ public class EnemyPathfinding : MonoBehaviour
     
     void Start()
     {
+        print("kört start");
         rb = GetComponent<Rigidbody2D>();
         transform.position = new Vector3(startpositionx, startpositiony, startpositionz);
-        rb.linearVelocity = (checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position - transform.position);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (rb.linearVelocity.magnitude <= 0)
-        {
-            rb.linearVelocity = rb.linearVelocity.normalized;
-        }
-        else
-        {
-            rb.linearVelocity = (checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position - transform.position).normalized * speed;
-        }
-        //Checks velocity
-        Debug.Log("Velocity: " + rb.linearVelocity);
+        rb.linearVelocity = (checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position - transform.position).normalized * speed;
     }
 }
