@@ -18,7 +18,6 @@ public class CheckpointParent : MonoBehaviour
 
     void Start()
     {
-        print("skapar checkpointparent");
         index = 0;
 
         goforward = true;
