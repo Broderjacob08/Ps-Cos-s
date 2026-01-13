@@ -44,8 +44,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Design
+  - name: NPC / Characters
     uniqueID: 3464136697
+    locked: 0
+  - name: Player
+    uniqueID: 2675133829
+    locked: 0
+  - name: Item
+    uniqueID: 3060468135
     locked: 0
   m_RenderingLayers:
   - Default
