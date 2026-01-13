@@ -14,11 +14,14 @@ public class GoodEnding : MonoBehaviour
     {
         
     }
-    public void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        //if(GetElevatorKey() == true)
+        //if(GetElevatorKey() == true && collision.tag == "Ending")
         {
-            
+            print("Good Ending");
         }
     }
+    
+        
+    
 }
