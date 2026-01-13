@@ -23,7 +23,6 @@ public class EnemyPathfinding : MonoBehaviour
     
     void Start()
     {
-        print("kört start");
         rb = GetComponent<Rigidbody2D>();
         transform.position = new Vector3(startpositionx, startpositiony, startpositionz);
     }
@@ -31,6 +30,7 @@ public class EnemyPathfinding : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        transform.rotation = Quaternion.Euler(0, 0, Vector2.SignedAngle(Vector2.up, rb.linearVelocity));
         rb.linearVelocity = (checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position - transform.position).normalized * speed;
     }
 }
