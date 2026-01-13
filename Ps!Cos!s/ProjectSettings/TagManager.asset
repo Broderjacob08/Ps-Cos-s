@@ -9,7 +9,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Backround
   - Water
   - UI
   - characters
@@ -41,6 +41,9 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Design
+    uniqueID: 3464136697
     locked: 0
   m_RenderingLayers:
   - Default
