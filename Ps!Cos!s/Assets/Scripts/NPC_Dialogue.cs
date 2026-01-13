@@ -6,10 +6,7 @@ public class NPC_Dialogue : MonoBehaviour
     bool isPlayerNearby = false;
     public GameObject dialogueText;
     TextMeshProUGUI textComponent;
-    /*/public string line1;
-    public string line2;
-    public string line3;
-    /*/
+    
     public string[] lines;
     
     int index = 0;

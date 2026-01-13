@@ -796,6 +796,7 @@ MonoBehaviour:
   lines:
   - bing bong
   - bang bong
+  - "hejd\xE5"
 --- !u!1 &1729526983
 GameObject:
   m_ObjectHideFlags: 0
@@ -811,7 +812,7 @@ GameObject:
   - component: {fileID: 1729526985}
   m_Layer: 6
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
