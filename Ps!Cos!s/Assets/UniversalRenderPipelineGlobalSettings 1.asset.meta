@@ -1,5 +1,9 @@
 fileFormatVersion: 2
-guid: 176f1a27db8feed469f57fa16f0decbe
+<<<<<<<< HEAD:Ps!Cos!s/Assets/DefaultVolumeProfile.asset.meta
+guid: 76245ea32e47e544991e33c22565d156
+========
+guid: 3666e542b854c32429cecaf70cf1e5ba
+>>>>>>>> 05f26bc32ec723d6891e5d56de2899dd1c6c8e52:Ps!Cos!s/Assets/UniversalRenderPipelineGlobalSettings 1.asset.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
