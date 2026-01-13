@@ -37,7 +37,7 @@ public class EnemyPathfinding : MonoBehaviour
         }
         else
         {
-            rb.linearVelocity = (checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position - transform.position);
+            rb.linearVelocity = (checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position - transform.position).normalized * speed;
         }
         //Checks velocity
         Debug.Log("Velocity: " + rb.linearVelocity);
