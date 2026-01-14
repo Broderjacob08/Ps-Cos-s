@@ -1,3 +1,4 @@
+using Assets.Scripts;
 using UnityEngine;
 
 public class PlayerPickUp : MonoBehaviour
@@ -35,6 +36,13 @@ public class PlayerPickUp : MonoBehaviour
     {
         heldItem = item;
         //disable item visually and physically
+
+        ItemsClass key = item.GetComponent<ItemsClass>();
+        if(key != null)
+        {
+            key.onPickup();
+        }
+
         item.gameObject.SetActive(false);
 
         Debug.Log("Picked up!: " + item.itemName);

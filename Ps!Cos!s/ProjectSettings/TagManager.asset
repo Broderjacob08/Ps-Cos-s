@@ -44,8 +44,11 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: NPC / Characters
+  - name: NPC / Characters / Corridor
     uniqueID: 3464136697
+    locked: 0
+  - name: corridor
+    uniqueID: 1760673525
     locked: 0
   - name: Player
     uniqueID: 2675133829

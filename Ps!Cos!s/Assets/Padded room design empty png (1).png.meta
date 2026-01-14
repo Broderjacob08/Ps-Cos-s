@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1700de47013bd8040814f4076fd4c8a0
+guid: 97451c058dab00f4ca9bf057bf49533b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3559077363655385951
-    second: Padded room design 2 png_0
+      213: -2814796892246309699
+    second: Padded room design empty png (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Padded room design 2 png_0
+      name: Padded room design empty png (1)_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
+        y: 33
         width: 320
-        height: 288
+        height: 287
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,14 +115,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f5320d46102646130800000000000000
-      internalID: 3559077363655385951
+      spriteID: db409c2d325dfe8d0800000000000000
+      internalID: -2814796892246309699
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_1
+      name: Padded room design empty png (1)_1
       rect:
         serializedVersion: 2
         x: 32
@@ -137,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1addb878257b0445809a8126fd9e4da
-      internalID: 2076630084
+      spriteID: 3ee594d7f1bb8ad4892423dfc56c8531
+      internalID: 337371772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_2
+      name: Padded room design empty png (1)_2
       rect:
         serializedVersion: 2
         x: 64
@@ -159,14 +159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 450a75f4afe9a5443b27a3881c2a8997
-      internalID: 1284555344
+      spriteID: ecb251a4d5a452d45a5d882f85381a92
+      internalID: -673221158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_3
+      name: Padded room design empty png (1)_3
       rect:
         serializedVersion: 2
         x: 96
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3b29a104c6fb7141abcfd00dd61e8c5
-      internalID: 1458571621
+      spriteID: 4cf907e9c013a7841b1be703e3af3f84
+      internalID: 876484523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_4
+      name: Padded room design empty png (1)_4
       rect:
         serializedVersion: 2
         x: 128
@@ -203,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c2186a52629f2d4393ae4d0aaf99c05
-      internalID: -1505580353
+      spriteID: 41bba4ebc52d2d443b2a3ac57a85dae9
+      internalID: 970952808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_5
+      name: Padded room design empty png (1)_5
       rect:
         serializedVersion: 2
         x: 160
@@ -225,14 +225,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08a1ef7136b28744bb1f9e4cf3646b5b
-      internalID: -18040909
+      spriteID: 7610a9dfdc5f4744dbc396ca319db1b9
+      internalID: 1515756532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_6
+      name: Padded room design empty png (1)_6
       rect:
         serializedVersion: 2
         x: 192
@@ -247,14 +247,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58e24035a4de27f40a43b4744cc3d134
-      internalID: 1056662951
+      spriteID: f4def5f39727ac641a29cc746b842b61
+      internalID: -639234111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_7
+      name: Padded room design empty png (1)_7
       rect:
         serializedVersion: 2
         x: 224
@@ -269,14 +269,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b86e7bf5c01b7e340a50bb2a6e2f4253
-      internalID: 748995005
+      spriteID: 16528382dd71c7a419cb83fbd15f62a0
+      internalID: 1330841456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_8
+      name: Padded room design empty png (1)_8
       rect:
         serializedVersion: 2
         x: 256
@@ -291,14 +291,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e510d8c28221d14a90e7e2906546798
-      internalID: 605106687
+      spriteID: 51db575bdb9961442ac61fb9456fa825
+      internalID: -1224168622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_9
+      name: Padded room design empty png (1)_9
       rect:
         serializedVersion: 2
         x: 288
@@ -313,14 +313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecd0a2fbd9d7e284495712ff3fd7d2f8
-      internalID: -1857941300
+      spriteID: 7eee4d09a8a8cb443ad8d608a397fae6
+      internalID: -2045237124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_10
+      name: Padded room design empty png (1)_10
       rect:
         serializedVersion: 2
         x: 0
@@ -335,14 +335,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4f901106ce44be4fa0fe381c5e253c5
-      internalID: 649812302
+      spriteID: 46f4d5dd6370a604f9ff23659750c53d
+      internalID: -1550613992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_11
+      name: Padded room design empty png (1)_11
       rect:
         serializedVersion: 2
         x: 32
@@ -357,14 +357,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d388bb70fd468fd498215638c7aa63aa
-      internalID: -34863961
+      spriteID: b4b1d1ef0940d234aa133da0634c4a18
+      internalID: 765192339
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_12
+      name: Padded room design empty png (1)_12
       rect:
         serializedVersion: 2
         x: 64
@@ -379,14 +379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1def635c81b265a4a8e8f776b3b9b2b4
-      internalID: 775708020
+      spriteID: fcfac3cff4e4bb147b3ea0dc57c38270
+      internalID: -910428774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_13
+      name: Padded room design empty png (1)_13
       rect:
         serializedVersion: 2
         x: 96
@@ -401,14 +401,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21137d5e1fde4e049a53b9786f3546d7
-      internalID: 716556808
+      spriteID: ddeb71f9a3feb474aae54cf6f0014dd4
+      internalID: -2131536218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_14
+      name: Padded room design empty png (1)_14
       rect:
         serializedVersion: 2
         x: 128
@@ -423,14 +423,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5d54a065111bd9418dfdf97260e7db1
-      internalID: -1941400965
+      spriteID: e05006315590c1844806d20b10de5e60
+      internalID: -743870682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_15
+      name: Padded room design empty png (1)_15
       rect:
         serializedVersion: 2
         x: 160
@@ -445,14 +445,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d39d91ad177a44442bebc05ed2288cd1
-      internalID: -2090542049
+      spriteID: 8c2e2c4c3862593468929e5fd1d8dc01
+      internalID: 259305736
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_16
+      name: Padded room design empty png (1)_16
       rect:
         serializedVersion: 2
         x: 192
@@ -467,14 +467,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0fc0f48c6a0619742b7775ccb7bb13a5
-      internalID: -493855673
+      spriteID: e3e7982ede71be14eb8e921d4c0fa95f
+      internalID: -1839000839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_17
+      name: Padded room design empty png (1)_17
       rect:
         serializedVersion: 2
         x: 224
@@ -489,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 660416eb4a2840c45aa803235fe736a6
-      internalID: 49746958
+      spriteID: 99fbcc7ee50ce5844acd68f1556a6101
+      internalID: 1338386922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_18
+      name: Padded room design empty png (1)_18
       rect:
         serializedVersion: 2
         x: 256
@@ -511,14 +511,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cadacbd5ac780f348917bc64d809e593
-      internalID: -12829277
+      spriteID: 8418e152658a7264ca59b01b522bc0c5
+      internalID: 1801443559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_19
+      name: Padded room design empty png (1)_19
       rect:
         serializedVersion: 2
         x: 288
@@ -533,14 +533,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2745fa4b31f6d1244aea996b5894612d
-      internalID: 1388808616
+      spriteID: c2aa1a73d08c60b40a1482bb8ca5c50c
+      internalID: 979151601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_20
+      name: Padded room design empty png (1)_20
       rect:
         serializedVersion: 2
         x: 0
@@ -555,14 +555,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edaecb9bbf3b47d48a66e9e11459d289
-      internalID: -58242244
+      spriteID: 5b470030d7090074b974277631b1959a
+      internalID: 1366015112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_21
+      name: Padded room design empty png (1)_21
       rect:
         serializedVersion: 2
         x: 32
@@ -577,14 +577,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9424689db99f1b04e939052a8db266a2
-      internalID: -1732278160
+      spriteID: fae1274a3b00b3a4a840e42b3302eca3
+      internalID: -1939000479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_22
+      name: Padded room design empty png (1)_22
       rect:
         serializedVersion: 2
         x: 64
@@ -599,14 +599,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 370909b403b9c764bb2296baad7054e5
-      internalID: 118884826
+      spriteID: 05c092f3b71815c45ad65e3d3ad6fc38
+      internalID: -1307336607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_23
+      name: Padded room design empty png (1)_23
       rect:
         serializedVersion: 2
         x: 96
@@ -621,14 +621,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbc27643cfff9754fa8bf338d469b1fe
-      internalID: -696693723
+      spriteID: 5ee59f30e7269bd478aa3332dd785d3c
+      internalID: -1120962791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_24
+      name: Padded room design empty png (1)_24
       rect:
         serializedVersion: 2
         x: 128
@@ -643,14 +643,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cb12036fed22ac4782e66df6cd68f7b
-      internalID: 1541178711
+      spriteID: 6517c5da80924f84a8e8188dc37b8f84
+      internalID: -1723019784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_25
+      name: Padded room design empty png (1)_25
       rect:
         serializedVersion: 2
         x: 160
@@ -665,14 +665,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5463abe22bbba4d4e9b8749331bebf6c
-      internalID: 1294572262
+      spriteID: a5d992a0dd84518418c10437f2db8dc1
+      internalID: -1930135499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_26
+      name: Padded room design empty png (1)_26
       rect:
         serializedVersion: 2
         x: 192
@@ -687,14 +687,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae4f24106f6973f4690fa4f263d9abcb
-      internalID: 301072476
+      spriteID: 5e3d984750e159e4e87f54bd02b4f528
+      internalID: -916996942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_27
+      name: Padded room design empty png (1)_27
       rect:
         serializedVersion: 2
         x: 224
@@ -709,14 +709,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebfc235220ea32148a97fd8ed72c3827
-      internalID: 106357937
+      spriteID: b68b7bd3013be8f4fa92f75aea91f1c9
+      internalID: -1552956286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_28
+      name: Padded room design empty png (1)_28
       rect:
         serializedVersion: 2
         x: 256
@@ -731,14 +731,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b92c9bc2e515f154c8acc312c09c69b7
-      internalID: 50227841
+      spriteID: 116aad224b9762f41aed39c5952c08d8
+      internalID: -1753100227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_29
+      name: Padded room design empty png (1)_29
       rect:
         serializedVersion: 2
         x: 288
@@ -753,14 +753,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e705be5f06d12941a82956e5a8fab53
-      internalID: -1702771901
+      spriteID: 0fcf32c03d25b6e45800b810bc31d829
+      internalID: 279484497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_30
+      name: Padded room design empty png (1)_30
       rect:
         serializedVersion: 2
         x: 0
@@ -775,14 +775,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b6a488def3e2bc48affb5711cae4128
-      internalID: -1041090935
+      spriteID: 106a24d65b877cf4a8c80a6a09dc3ea9
+      internalID: 573105594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_31
+      name: Padded room design empty png (1)_31
       rect:
         serializedVersion: 2
         x: 32
@@ -797,14 +797,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ffe8a66cd389e547aedcd82c07bb641
-      internalID: -967858352
+      spriteID: a8fafdef2f30cfd4bbd8533d77bd2b05
+      internalID: -1069638152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_32
+      name: Padded room design empty png (1)_32
       rect:
         serializedVersion: 2
         x: 64
@@ -819,14 +819,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e9649d2adcb8014cb2d2945a838f22b
-      internalID: 1713518721
+      spriteID: 4bf31e683e991ba4fb8d678ec5e1bf3d
+      internalID: -27832184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_33
+      name: Padded room design empty png (1)_33
       rect:
         serializedVersion: 2
         x: 96
@@ -841,14 +841,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2980e11dad3908c44927569a1448591a
-      internalID: -1137028523
+      spriteID: af2673ada6ed1584695d9c01670daa09
+      internalID: 200456928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_34
+      name: Padded room design empty png (1)_34
       rect:
         serializedVersion: 2
         x: 128
@@ -863,14 +863,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5505939c40f38441afb8fa392142988
-      internalID: -573127662
+      spriteID: 1289babf69261b14392d589aa85ef556
+      internalID: 36241142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_35
+      name: Padded room design empty png (1)_35
       rect:
         serializedVersion: 2
         x: 160
@@ -885,14 +885,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2288bc1ada155814496631f6e71e8083
-      internalID: -1135566131
+      spriteID: 9cc082160c393d94fa2a1c82fe938854
+      internalID: 1858239145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_36
+      name: Padded room design empty png (1)_36
       rect:
         serializedVersion: 2
         x: 192
@@ -907,14 +907,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37c87eeaaea855445bdcc71eda4eb9ce
-      internalID: 256485905
+      spriteID: 4d475986a18fab942ae3ded1174b0081
+      internalID: 284536805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_37
+      name: Padded room design empty png (1)_37
       rect:
         serializedVersion: 2
         x: 224
@@ -929,14 +929,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 680bc8ce6aaf1c14badcc14603c94420
-      internalID: 438837047
+      spriteID: 75e945734017e3d47bb40f1bc683048a
+      internalID: 671786856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_38
+      name: Padded room design empty png (1)_38
       rect:
         serializedVersion: 2
         x: 256
@@ -951,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30b12a1b97ea7d849b52b26acebed756
-      internalID: 794031263
+      spriteID: c3840c15ed9692542bde23885892e88f
+      internalID: 806963389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_39
+      name: Padded room design empty png (1)_39
       rect:
         serializedVersion: 2
         x: 288
@@ -973,14 +973,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b17042d2924413740890dcf5761d7499
-      internalID: -895189887
+      spriteID: 8a289c1b254fddc46bb3b130112785ea
+      internalID: -645221563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_40
+      name: Padded room design empty png (1)_40
       rect:
         serializedVersion: 2
         x: 0
@@ -995,14 +995,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5baf67f053a44c48a363759321b0b14
-      internalID: 1040165865
+      spriteID: adc57d95466aff948a70e3124bda8b7c
+      internalID: 94156778
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_41
+      name: Padded room design empty png (1)_41
       rect:
         serializedVersion: 2
         x: 32
@@ -1017,14 +1017,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61e314c66b64a15469692152f7cc77fe
-      internalID: 569157369
+      spriteID: 6be2638e99c5f4242bbe3c3d95069d67
+      internalID: -1024023956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_42
+      name: Padded room design empty png (1)_42
       rect:
         serializedVersion: 2
         x: 64
@@ -1039,14 +1039,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f93c66910f45884e908f46bbace66b6
-      internalID: -125512895
+      spriteID: 0a071964a8c8a20479f79ba67b0e74ce
+      internalID: 569198214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_43
+      name: Padded room design empty png (1)_43
       rect:
         serializedVersion: 2
         x: 96
@@ -1061,14 +1061,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f880aa2c241ad24e8c662e34e4391db
-      internalID: -1600931152
+      spriteID: 92ce3a97738d6c64ca0ad8157435c625
+      internalID: 163672537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_44
+      name: Padded room design empty png (1)_44
       rect:
         serializedVersion: 2
         x: 128
@@ -1083,14 +1083,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38eefc799332b29438c51a51d551559c
-      internalID: -973447524
+      spriteID: 517b85dc6f9252d489d60cb3787d78fd
+      internalID: 633990592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_45
+      name: Padded room design empty png (1)_45
       rect:
         serializedVersion: 2
         x: 160
@@ -1105,14 +1105,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 205a60c7593f1024b9eab3b3a1c35258
-      internalID: -1382069662
+      spriteID: 60ddb103f56e5c649b110d51d6867a2d
+      internalID: 670088441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_46
+      name: Padded room design empty png (1)_46
       rect:
         serializedVersion: 2
         x: 192
@@ -1127,14 +1127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1dfd5c157d75de143992bee249dc0bc2
-      internalID: -1093690999
+      spriteID: 7143b3586380e7c43a989e36ec330ccc
+      internalID: -1955498276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_47
+      name: Padded room design empty png (1)_47
       rect:
         serializedVersion: 2
         x: 224
@@ -1149,14 +1149,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dd2c981d8f56364a80765ed9bdcfed1
-      internalID: 709196321
+      spriteID: c81b9bbedce0fef458e1bde21739c4de
+      internalID: 735295177
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_48
+      name: Padded room design empty png (1)_48
       rect:
         serializedVersion: 2
         x: 256
@@ -1171,14 +1171,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c40ff7a07548777429624d8676dbd1d1
-      internalID: -69641314
+      spriteID: 3327ec40dd794c749b886fc3fb1720ac
+      internalID: -1504464512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_49
+      name: Padded room design empty png (1)_49
       rect:
         serializedVersion: 2
         x: 288
@@ -1193,14 +1193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb9296e5f7f059a44a5eec846f63d398
-      internalID: -2038163807
+      spriteID: c23e123b20442d54a8b90d0c94c0b12a
+      internalID: -1210913035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_50
+      name: Padded room design empty png (1)_50
       rect:
         serializedVersion: 2
         x: 0
@@ -1215,14 +1215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e89de91c2d396c54a827660e5780c833
-      internalID: -739525645
+      spriteID: 8a3f0ee166b3d3e418ffab27d45186b2
+      internalID: -1000188570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_51
+      name: Padded room design empty png (1)_51
       rect:
         serializedVersion: 2
         x: 32
@@ -1237,14 +1237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5a0223bf74bff648bceef4a53c7d942
-      internalID: -1864958708
+      spriteID: a53c434b64502c9408c2cfee82b6c2a5
+      internalID: 1772959580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_52
+      name: Padded room design empty png (1)_52
       rect:
         serializedVersion: 2
         x: 64
@@ -1259,14 +1259,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69ad81b866425e940bfe27eacbf7b14c
-      internalID: 1156492468
+      spriteID: 3970eb1b752e0084083fe57bc25eff72
+      internalID: -1756494324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_53
+      name: Padded room design empty png (1)_53
       rect:
         serializedVersion: 2
         x: 96
@@ -1281,14 +1281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c12bfbef03331f46b30979b172e2de5
-      internalID: -1325069317
+      spriteID: 7c9d299dcf9eb6347984e7bc1c659de6
+      internalID: 2045323773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_54
+      name: Padded room design empty png (1)_54
       rect:
         serializedVersion: 2
         x: 128
@@ -1303,14 +1303,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b95825dfb4f75e84988eb78139325d13
-      internalID: 1280970810
+      spriteID: 5cf11e734119454428812947a0343ed6
+      internalID: 1193722109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_55
+      name: Padded room design empty png (1)_55
       rect:
         serializedVersion: 2
         x: 160
@@ -1325,14 +1325,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28fd6f7403a7fe348b9bdcaebaaddbb9
-      internalID: -1068097799
+      spriteID: 0cf30eaabac20d3428caa6a4562dbcb6
+      internalID: -1381262228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_56
+      name: Padded room design empty png (1)_56
       rect:
         serializedVersion: 2
         x: 192
@@ -1347,14 +1347,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05bbb5463099ba54ab8f86f5c8c24094
-      internalID: -1615770523
+      spriteID: 4cf164e17e3aead4e9bf29d6519610a6
+      internalID: -327266496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_57
+      name: Padded room design empty png (1)_57
       rect:
         serializedVersion: 2
         x: 224
@@ -1369,14 +1369,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f756485c7def94a4f95bd8d25d2b4b1b
-      internalID: 983763354
+      spriteID: fa9417d480841e0489ea90eb065af4d0
+      internalID: -1992491285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_58
+      name: Padded room design empty png (1)_58
       rect:
         serializedVersion: 2
         x: 256
@@ -1391,14 +1391,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b01ac9c29418c049b89359b936ade41
-      internalID: 1951727071
+      spriteID: 74dfab1e55338c542a19f73a46514ae1
+      internalID: 1184038432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_59
+      name: Padded room design empty png (1)_59
       rect:
         serializedVersion: 2
         x: 288
@@ -1413,14 +1413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d9722be8eb1d33409aefbbaa5c1582c
-      internalID: 1469571371
+      spriteID: 63d332b7c02a43b41a3f972d00c58597
+      internalID: 1619096111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_60
+      name: Padded room design empty png (1)_60
       rect:
         serializedVersion: 2
         x: 0
@@ -1435,14 +1435,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08c7737d664c65b48b6c84aff095595c
-      internalID: 191008529
+      spriteID: db71b7bd6bc077f44a6aa8163ceeb5d3
+      internalID: -950058152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_61
+      name: Padded room design empty png (1)_61
       rect:
         serializedVersion: 2
         x: 32
@@ -1457,14 +1457,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1055ce0e0e2e9a54bbf304ac2bf20e51
-      internalID: 368127416
+      spriteID: 3c54d6ac45b97c842a57e30a95220fcd
+      internalID: -1595063064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_62
+      name: Padded room design empty png (1)_62
       rect:
         serializedVersion: 2
         x: 64
@@ -1479,14 +1479,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aef9a50bf0dfc354ba088b0b26790dc4
-      internalID: -1255915304
+      spriteID: d070c06e8bec11c4b89bab75ec946611
+      internalID: 1568596112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_63
+      name: Padded room design empty png (1)_63
       rect:
         serializedVersion: 2
         x: 96
@@ -1501,14 +1501,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0709dc939bce16b48879eeffa863fd3b
-      internalID: -1710674861
+      spriteID: b6f7ec5388ed3a146af2f135aba2333d
+      internalID: 1338403907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_64
+      name: Padded room design empty png (1)_64
       rect:
         serializedVersion: 2
         x: 128
@@ -1523,14 +1523,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f04c746cbbf77d444884679d0b808bcc
-      internalID: 1326936028
+      spriteID: e335c934e974f384a8242977b2d74fb5
+      internalID: 1512707457
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_65
+      name: Padded room design empty png (1)_65
       rect:
         serializedVersion: 2
         x: 160
@@ -1545,14 +1545,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a69737cc91de6264e8f10c0ede774cf8
-      internalID: 864027408
+      spriteID: 1fdea791f909d8c459efe8a9b7b694d0
+      internalID: -272726120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_66
+      name: Padded room design empty png (1)_66
       rect:
         serializedVersion: 2
         x: 192
@@ -1567,14 +1567,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6a463353d489624aa7f844e23761ee2
-      internalID: -1185310179
+      spriteID: 9ac25d2a3bfa72b43ab7226987c6d8da
+      internalID: 1878300305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_67
+      name: Padded room design empty png (1)_67
       rect:
         serializedVersion: 2
         x: 224
@@ -1589,14 +1589,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3ff369d1cc8f6e48b67e62143310d81
-      internalID: -549921517
+      spriteID: 3065fb219354b0c43b29f311e9f3c057
+      internalID: -624775889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_68
+      name: Padded room design empty png (1)_68
       rect:
         serializedVersion: 2
         x: 256
@@ -1611,14 +1611,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d88252d5f86fd148836c3987fb20959
-      internalID: -2127956646
+      spriteID: 479b58b2f1743d847affa524476af4c0
+      internalID: -1346092852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_69
+      name: Padded room design empty png (1)_69
       rect:
         serializedVersion: 2
         x: 288
@@ -1633,14 +1633,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 473ebb8efdc942c4cbec08b811561bd0
-      internalID: 1169550454
+      spriteID: 4e4d91ddeb87ef54fb624d84b361b49c
+      internalID: 1319078210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_70
+      name: Padded room design empty png (1)_70
       rect:
         serializedVersion: 2
         x: 0
@@ -1655,14 +1655,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a44e35968d04018459f3dc62f341e975
-      internalID: -1324368476
+      spriteID: 30c8315d79e91b4469a471817be2abf6
+      internalID: -135268327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_71
+      name: Padded room design empty png (1)_71
       rect:
         serializedVersion: 2
         x: 32
@@ -1677,14 +1677,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61af5ffbb3ced7048854175bc5b11ed7
-      internalID: -1812089335
+      spriteID: 1190a09677653a44ca871b381a96ee03
+      internalID: 635399063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_72
+      name: Padded room design empty png (1)_72
       rect:
         serializedVersion: 2
         x: 64
@@ -1699,14 +1699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dba295c70c45b854884b416f733dcfce
-      internalID: -1061898210
+      spriteID: 073efd88d8837634080aeaf03d71c971
+      internalID: 628436758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_73
+      name: Padded room design empty png (1)_73
       rect:
         serializedVersion: 2
         x: 96
@@ -1721,14 +1721,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5ad33563c69e2545a516fd34df95312
-      internalID: 1922642559
+      spriteID: 12e8c8eed7908e34d850913c559ede64
+      internalID: -1740959444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_74
+      name: Padded room design empty png (1)_74
       rect:
         serializedVersion: 2
         x: 128
@@ -1743,14 +1743,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3f2598403ce1b74bb3ccf671158aa8c
-      internalID: 308462845
+      spriteID: 0c29bc08ea9fc7f4290d9d09e01c1a85
+      internalID: -1970343110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_75
+      name: Padded room design empty png (1)_75
       rect:
         serializedVersion: 2
         x: 160
@@ -1765,14 +1765,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b6c74f5cc816a64e9e235d3d8af0900
-      internalID: 741650058
+      spriteID: 6f9b1f2608a001b41962eae817522361
+      internalID: 1205004026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_76
+      name: Padded room design empty png (1)_76
       rect:
         serializedVersion: 2
         x: 192
@@ -1787,14 +1787,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d4a82dabb14d9348876a432ab4330a2
-      internalID: -1572433278
+      spriteID: 0f6618daa82545848ad9425ecfedba85
+      internalID: 1652549102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_77
+      name: Padded room design empty png (1)_77
       rect:
         serializedVersion: 2
         x: 224
@@ -1809,14 +1809,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b97b1b30ed390a345a3e34a136fbc14f
-      internalID: -492002069
+      spriteID: e6b21788f3848914baf76e86fff1d470
+      internalID: 9473369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_78
+      name: Padded room design empty png (1)_78
       rect:
         serializedVersion: 2
         x: 256
@@ -1831,14 +1831,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc2028442869a4745ad2f10c16151c77
-      internalID: 71483494
+      spriteID: c9b226859dd08dc4db33e5a7ae451075
+      internalID: 1113404918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_79
+      name: Padded room design empty png (1)_79
       rect:
         serializedVersion: 2
         x: 288
@@ -1853,14 +1853,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3097f1e8ccec4c418f1897f84f03341
-      internalID: -687096801
+      spriteID: ed9875f5a5289d44b945b0812fce4d57
+      internalID: -151134727
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_80
+      name: Padded room design empty png (1)_80
       rect:
         serializedVersion: 2
         x: 0
@@ -1875,14 +1875,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f827629e86a7b6a40a3c81eb8ec5c503
-      internalID: 596981291
+      spriteID: e98ef84b4cd6c204bb019691ffae3001
+      internalID: -1953122158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_81
+      name: Padded room design empty png (1)_81
       rect:
         serializedVersion: 2
         x: 32
@@ -1897,14 +1897,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0a8dfc558c125344bb2c314227edb54
-      internalID: 1878983425
+      spriteID: 0e5dd1131c958ba4e97fe3a2df84f5c5
+      internalID: -697040662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_82
+      name: Padded room design empty png (1)_82
       rect:
         serializedVersion: 2
         x: 64
@@ -1919,14 +1919,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 158db1770708c144dbcedc8dc61862bd
-      internalID: -599921208
+      spriteID: 6333bf5c66b0e284fb2f6a02ff10cc80
+      internalID: -1744657692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_83
+      name: Padded room design empty png (1)_83
       rect:
         serializedVersion: 2
         x: 96
@@ -1941,14 +1941,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7cd976f0e8a95b4fb6548ea839b67f2
-      internalID: -1538337340
+      spriteID: dc143fed7860aca4ab1c7b382064e398
+      internalID: 1423497534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_84
+      name: Padded room design empty png (1)_84
       rect:
         serializedVersion: 2
         x: 128
@@ -1963,14 +1963,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 220e4ad23aebb4948855e69ea4195596
-      internalID: 343531811
+      spriteID: 69c0c2bebe31a4b49ac4d1d390c14e87
+      internalID: -324135183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_85
+      name: Padded room design empty png (1)_85
       rect:
         serializedVersion: 2
         x: 160
@@ -1985,14 +1985,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 402d6cbb5273c4d4a904422654f619ce
-      internalID: 1652689630
+      spriteID: 1318e7aaf4b7da64f8d1dab5e919bc59
+      internalID: 2089799135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_86
+      name: Padded room design empty png (1)_86
       rect:
         serializedVersion: 2
         x: 192
@@ -2007,14 +2007,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa5f8944d41023a48af542a1347270d5
-      internalID: 360071077
+      spriteID: 113f3bf97b7bca84d99aee6770cbdfde
+      internalID: 846061044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_87
+      name: Padded room design empty png (1)_87
       rect:
         serializedVersion: 2
         x: 224
@@ -2029,14 +2029,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6c528e234a507f4786f8bf5560f0b24
-      internalID: 168600164
+      spriteID: b8885a15a3625114d944320eb2f7cf7c
+      internalID: -326928873
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_88
+      name: Padded room design empty png (1)_88
       rect:
         serializedVersion: 2
         x: 256
@@ -2051,14 +2051,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec982617b436f834b995c0e8bd668730
-      internalID: -409717311
+      spriteID: 8d465ce1cf6c232429e81067517fe8aa
+      internalID: -1356385669
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Padded room design 2 png_89
+      name: Padded room design empty png (1)_89
       rect:
         serializedVersion: 2
         x: 288
@@ -2073,8 +2073,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7178acb6b5a1aa94bb6c28164246a4e7
-      internalID: 1969924523
+      spriteID: 215582350d3edb140b5224e5809a971c
+      internalID: 1093919314
       vertices: []
       indices: 
       edges: []
@@ -2083,7 +2083,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 2cf7604e5d67d144397f648cc7b4c826
+    spriteID: b46375a5dab83fb47afb3a9e503684fe
     internalID: 0
     vertices: []
     indices: 
@@ -2095,106 +2095,106 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Padded room design 2 png_0: 3559077363655385951
-      Padded room design 2 png_1: 2076630084
-      Padded room design 2 png_10: 649812302
-      Padded room design 2 png_11: -34863961
-      Padded room design 2 png_12: 775708020
-      Padded room design 2 png_13: 716556808
-      Padded room design 2 png_14: -1941400965
-      Padded room design 2 png_15: -2090542049
-      Padded room design 2 png_16: -493855673
-      Padded room design 2 png_17: 49746958
-      Padded room design 2 png_18: -12829277
-      Padded room design 2 png_19: 1388808616
-      Padded room design 2 png_2: 1284555344
-      Padded room design 2 png_20: -58242244
-      Padded room design 2 png_21: -1732278160
-      Padded room design 2 png_22: 118884826
-      Padded room design 2 png_23: -696693723
-      Padded room design 2 png_24: 1541178711
-      Padded room design 2 png_25: 1294572262
-      Padded room design 2 png_26: 301072476
-      Padded room design 2 png_27: 106357937
-      Padded room design 2 png_28: 50227841
-      Padded room design 2 png_29: -1702771901
-      Padded room design 2 png_3: 1458571621
-      Padded room design 2 png_30: -1041090935
-      Padded room design 2 png_31: -967858352
-      Padded room design 2 png_32: 1713518721
-      Padded room design 2 png_33: -1137028523
-      Padded room design 2 png_34: -573127662
-      Padded room design 2 png_35: -1135566131
-      Padded room design 2 png_36: 256485905
-      Padded room design 2 png_37: 438837047
-      Padded room design 2 png_38: 794031263
-      Padded room design 2 png_39: -895189887
-      Padded room design 2 png_4: -1505580353
-      Padded room design 2 png_40: 1040165865
-      Padded room design 2 png_41: 569157369
-      Padded room design 2 png_42: -125512895
-      Padded room design 2 png_43: -1600931152
-      Padded room design 2 png_44: -973447524
-      Padded room design 2 png_45: -1382069662
-      Padded room design 2 png_46: -1093690999
-      Padded room design 2 png_47: 709196321
-      Padded room design 2 png_48: -69641314
-      Padded room design 2 png_49: -2038163807
-      Padded room design 2 png_5: -18040909
-      Padded room design 2 png_50: -739525645
-      Padded room design 2 png_51: -1864958708
-      Padded room design 2 png_52: 1156492468
-      Padded room design 2 png_53: -1325069317
-      Padded room design 2 png_54: 1280970810
-      Padded room design 2 png_55: -1068097799
-      Padded room design 2 png_56: -1615770523
-      Padded room design 2 png_57: 983763354
-      Padded room design 2 png_58: 1951727071
-      Padded room design 2 png_59: 1469571371
-      Padded room design 2 png_6: 1056662951
-      Padded room design 2 png_60: 191008529
-      Padded room design 2 png_61: 368127416
-      Padded room design 2 png_62: -1255915304
-      Padded room design 2 png_63: -1710674861
-      Padded room design 2 png_64: 1326936028
-      Padded room design 2 png_65: 864027408
-      Padded room design 2 png_66: -1185310179
-      Padded room design 2 png_67: -549921517
-      Padded room design 2 png_68: -2127956646
-      Padded room design 2 png_69: 1169550454
-      Padded room design 2 png_7: 748995005
-      Padded room design 2 png_70: -1324368476
-      Padded room design 2 png_71: -1812089335
-      Padded room design 2 png_72: -1061898210
-      Padded room design 2 png_73: 1922642559
-      Padded room design 2 png_74: 308462845
-      Padded room design 2 png_75: 741650058
-      Padded room design 2 png_76: -1572433278
-      Padded room design 2 png_77: -492002069
-      Padded room design 2 png_78: 71483494
-      Padded room design 2 png_79: -687096801
-      Padded room design 2 png_8: 605106687
-      Padded room design 2 png_80: 596981291
-      Padded room design 2 png_81: 1878983425
-      Padded room design 2 png_82: -599921208
-      Padded room design 2 png_83: -1538337340
-      Padded room design 2 png_84: 343531811
-      Padded room design 2 png_85: 1652689630
-      Padded room design 2 png_86: 360071077
-      Padded room design 2 png_87: 168600164
-      Padded room design 2 png_88: -409717311
-      Padded room design 2 png_89: 1969924523
-      Padded room design 2 png_9: -1857941300
-      Padded room design 2 png_90: -1183945831
-      Padded room design 2 png_91: 357298781
-      Padded room design 2 png_92: 971636290
-      Padded room design 2 png_93: -747861038
-      Padded room design 2 png_94: -372399667
-      Padded room design 2 png_95: 1323099181
-      Padded room design 2 png_96: 1927040479
-      Padded room design 2 png_97: 1619320032
-      Padded room design 2 png_98: -2072474287
-      Padded room design 2 png_99: -1556795552
+      Padded room design empty png (1)_0: -2814796892246309699
+      Padded room design empty png (1)_1: 337371772
+      Padded room design empty png (1)_10: -1550613992
+      Padded room design empty png (1)_11: 765192339
+      Padded room design empty png (1)_12: -910428774
+      Padded room design empty png (1)_13: -2131536218
+      Padded room design empty png (1)_14: -743870682
+      Padded room design empty png (1)_15: 259305736
+      Padded room design empty png (1)_16: -1839000839
+      Padded room design empty png (1)_17: 1338386922
+      Padded room design empty png (1)_18: 1801443559
+      Padded room design empty png (1)_19: 979151601
+      Padded room design empty png (1)_2: -673221158
+      Padded room design empty png (1)_20: 1366015112
+      Padded room design empty png (1)_21: -1939000479
+      Padded room design empty png (1)_22: -1307336607
+      Padded room design empty png (1)_23: -1120962791
+      Padded room design empty png (1)_24: -1723019784
+      Padded room design empty png (1)_25: -1930135499
+      Padded room design empty png (1)_26: -916996942
+      Padded room design empty png (1)_27: -1552956286
+      Padded room design empty png (1)_28: -1753100227
+      Padded room design empty png (1)_29: 279484497
+      Padded room design empty png (1)_3: 876484523
+      Padded room design empty png (1)_30: 573105594
+      Padded room design empty png (1)_31: -1069638152
+      Padded room design empty png (1)_32: -27832184
+      Padded room design empty png (1)_33: 200456928
+      Padded room design empty png (1)_34: 36241142
+      Padded room design empty png (1)_35: 1858239145
+      Padded room design empty png (1)_36: 284536805
+      Padded room design empty png (1)_37: 671786856
+      Padded room design empty png (1)_38: 806963389
+      Padded room design empty png (1)_39: -645221563
+      Padded room design empty png (1)_4: 970952808
+      Padded room design empty png (1)_40: 94156778
+      Padded room design empty png (1)_41: -1024023956
+      Padded room design empty png (1)_42: 569198214
+      Padded room design empty png (1)_43: 163672537
+      Padded room design empty png (1)_44: 633990592
+      Padded room design empty png (1)_45: 670088441
+      Padded room design empty png (1)_46: -1955498276
+      Padded room design empty png (1)_47: 735295177
+      Padded room design empty png (1)_48: -1504464512
+      Padded room design empty png (1)_49: -1210913035
+      Padded room design empty png (1)_5: 1515756532
+      Padded room design empty png (1)_50: -1000188570
+      Padded room design empty png (1)_51: 1772959580
+      Padded room design empty png (1)_52: -1756494324
+      Padded room design empty png (1)_53: 2045323773
+      Padded room design empty png (1)_54: 1193722109
+      Padded room design empty png (1)_55: -1381262228
+      Padded room design empty png (1)_56: -327266496
+      Padded room design empty png (1)_57: -1992491285
+      Padded room design empty png (1)_58: 1184038432
+      Padded room design empty png (1)_59: 1619096111
+      Padded room design empty png (1)_6: -639234111
+      Padded room design empty png (1)_60: -950058152
+      Padded room design empty png (1)_61: -1595063064
+      Padded room design empty png (1)_62: 1568596112
+      Padded room design empty png (1)_63: 1338403907
+      Padded room design empty png (1)_64: 1512707457
+      Padded room design empty png (1)_65: -272726120
+      Padded room design empty png (1)_66: 1878300305
+      Padded room design empty png (1)_67: -624775889
+      Padded room design empty png (1)_68: -1346092852
+      Padded room design empty png (1)_69: 1319078210
+      Padded room design empty png (1)_7: 1330841456
+      Padded room design empty png (1)_70: -135268327
+      Padded room design empty png (1)_71: 635399063
+      Padded room design empty png (1)_72: 628436758
+      Padded room design empty png (1)_73: -1740959444
+      Padded room design empty png (1)_74: -1970343110
+      Padded room design empty png (1)_75: 1205004026
+      Padded room design empty png (1)_76: 1652549102
+      Padded room design empty png (1)_77: 9473369
+      Padded room design empty png (1)_78: 1113404918
+      Padded room design empty png (1)_79: -151134727
+      Padded room design empty png (1)_8: -1224168622
+      Padded room design empty png (1)_80: -1953122158
+      Padded room design empty png (1)_81: -697040662
+      Padded room design empty png (1)_82: -1744657692
+      Padded room design empty png (1)_83: 1423497534
+      Padded room design empty png (1)_84: -324135183
+      Padded room design empty png (1)_85: 2089799135
+      Padded room design empty png (1)_86: 846061044
+      Padded room design empty png (1)_87: -326928873
+      Padded room design empty png (1)_88: -1356385669
+      Padded room design empty png (1)_89: 1093919314
+      Padded room design empty png (1)_9: -2045237124
+      Padded room design empty png (1)_90: -1420085272
+      Padded room design empty png (1)_91: 190625872
+      Padded room design empty png (1)_92: -934366495
+      Padded room design empty png (1)_93: 2087352570
+      Padded room design empty png (1)_94: -1247006083
+      Padded room design empty png (1)_95: -1182976810
+      Padded room design empty png (1)_96: -1175558931
+      Padded room design empty png (1)_97: 2079320977
+      Padded room design empty png (1)_98: 1741044137
+      Padded room design empty png (1)_99: 2054749345
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

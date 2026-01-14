@@ -130,6 +130,7 @@ GameObject:
   - component: {fileID: 29455401}
   - component: {fileID: 29455400}
   - component: {fileID: 29455402}
+  - component: {fileID: 29455403}
   m_Layer: 0
   m_Name: Door
   m_TagString: Untagged
@@ -256,6 +257,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &29455403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 29455399}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fac5fde1ed8c5d43adf2bcdd8253c5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  requiredKey: ExitDoor
 --- !u!1 &352870937
 GameObject:
   m_ObjectHideFlags: 0
@@ -268,6 +282,7 @@ GameObject:
   - component: {fileID: 352870940}
   - component: {fileID: 352870939}
   - component: {fileID: 352870938}
+  - component: {fileID: 352870942}
   m_Layer: 7
   m_Name: Item
   m_TagString: Untagged
@@ -399,6 +414,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &352870942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352870937}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 829c5efe9fd832744addc6438c1a198b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Assets.Scripts.ItemsClass
+  itemType: 0
+  itemName: Key
+  door: {fileID: 29455399}
 --- !u!1 &1124548961
 GameObject:
   m_ObjectHideFlags: 0

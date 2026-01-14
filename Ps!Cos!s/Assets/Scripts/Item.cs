@@ -5,12 +5,12 @@ public class Item : MonoBehaviour
     public enum ItemType
     {
         key,
-        keycard,
-        other
+        keycard
     }
 
     public ItemType itemType;
 
-    //debug later
     public string itemName;
+
+    
 }
