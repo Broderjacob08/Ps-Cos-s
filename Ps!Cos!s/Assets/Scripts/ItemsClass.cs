@@ -9,6 +9,8 @@ namespace Assets.Scripts
 {
     internal class ItemsClass : Item
     {
+        //public string key = "ExitDoor";
+
         public GameObject door;
         private bool isPickedUp = false;
 
@@ -22,14 +24,5 @@ namespace Assets.Scripts
                 door.GetComponent<BoxCollider2D>().enabled = false;
             }
         }
-
-        /*/private void OnTriggerEnter2D(Collider2D collision)
-        {
-            if (collision.CompareTag("Player"))
-            {
-                Debug.Log("picked up key");
-                door.GetComponent<BoxCollider2D>().enabled = false;
-            }
-        }/*/
     }
 }
