@@ -12,7 +12,7 @@ public class EnemyPathfinding : MonoBehaviour
     [SerializeField] float startpositionz;
     [SerializeField] float speed;
 
-    bool chasingplayer;
+    public bool chasingplayer;
 
     [SerializeField] CheckpointParent checkpointHolder;
     [SerializeField] Movement player;
@@ -37,6 +37,7 @@ public class EnemyPathfinding : MonoBehaviour
         if(chasingplayer == false)
         {
             transform.rotation = Quaternion.Euler(0, 0, Vector2.SignedAngle(Vector2.up, rb.linearVelocity));
+            Debug.Log("Checkpoint " + checkpointHolder.checkpoints[checkpointHolder.GetIndex()]);
             rb.linearVelocity = (checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position - transform.position).normalized * speed;
         } else
         {
