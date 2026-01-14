@@ -17,7 +17,7 @@ namespace Assets.Scripts
         public void onPickup()
         {
             isPickedUp = true;
-            Debug.Log("keyyy");
+            Debug.Log("key");
 
             if(door != null)
             {
