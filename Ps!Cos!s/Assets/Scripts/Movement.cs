@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
-    public float speed = 0.5f;
+    [SerializeField] float speed;
     Rigidbody2D rb;
     bool ElevatorKey = false;
 
@@ -16,10 +16,7 @@ public class Movement : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
-
         rb = GetComponent<Rigidbody2D>();
-   
     }
 
     // Update is called once per frame
