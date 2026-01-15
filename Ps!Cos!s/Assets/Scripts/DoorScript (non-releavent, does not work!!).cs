@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class DoorScript : MonoBehaviour
 {
-    public string requiredKey = "ExitDoor";
+    /*/public string requiredKey = "ExitDoor";
     private bool playerIsNear = false;
-    private PlayerPickUp playerScript;
+    private PlayerPickUp playerScript;/*/
 
     void Update()
     {

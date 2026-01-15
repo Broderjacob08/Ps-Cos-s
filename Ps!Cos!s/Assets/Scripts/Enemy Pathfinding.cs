@@ -7,12 +7,10 @@ public class EnemyPathfinding : MonoBehaviour
     
     //Startvalues for positioning + the empty needed for pathfinding
     
-    [SerializeField] float startpositionx;
-    [SerializeField] float startpositiony;
-    [SerializeField] float startpositionz;
+    
     [SerializeField] float speed;
 
-    public bool chasingplayer;
+    bool chasingplayer;
 
     [SerializeField] CheckpointParent checkpointHolder;
     [SerializeField] Movement player;
@@ -28,17 +26,20 @@ public class EnemyPathfinding : MonoBehaviour
     {
         chasingplayer = false;
         rb = GetComponent<Rigidbody2D>();
-        transform.position = new Vector3(startpositionx, startpositiony, startpositionz);
+        
     }
 
     // Update is called once per frame
     void Update()
     {
+        Debug.Log(checkpointHolder.GetIndex());
+        
         if(chasingplayer == false)
         {
-            transform.rotation = Quaternion.Euler(0, 0, Vector2.SignedAngle(Vector2.up, rb.linearVelocity));
+            transform.rotation = Quaternion.Euler(0, 0, Vector2.SignedAngle(Vector2.right, rb.linearVelocity));
             Debug.Log("Checkpoint " + checkpointHolder.checkpoints[checkpointHolder.GetIndex()]);
             rb.linearVelocity = (checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position - transform.position).normalized * speed;
+            print("velocity: " + rb.linearVelocity);
         } else
         {
             transform.rotation = Quaternion.Euler(0, 0, Vector2.SignedAngle(Vector2.up, rb.linearVelocity));
