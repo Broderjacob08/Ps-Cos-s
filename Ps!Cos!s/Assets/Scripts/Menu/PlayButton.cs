@@ -5,7 +5,7 @@ public class PlayButton : MonoBehaviour
 {
     public void OnStartClick()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("IanWorkshop");
     }
 
     public void OnExitClick()
