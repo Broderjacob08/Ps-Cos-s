@@ -27,18 +27,26 @@ public class Movement : MonoBehaviour
         if (Input.GetKey(KeyCode.W))
         {
             rb.linearVelocity = new Vector2(0, 1) * speed;
+
+            GetComponent<Animator>().SetBool("Up", true);
         }
         if (Input.GetKey(KeyCode.S))
         {
             rb.linearVelocity = new Vector2(0, -1) * speed;
+
+            GetComponent<Animator>().SetBool("Down", true);
         }
         if (Input.GetKey(KeyCode.D))
         {
             rb.linearVelocity = new Vector2(1, 0) * speed;
+
+            GetComponent<Animator>().SetBool("Right", true);
         }
         if (Input.GetKey(KeyCode.A))
         {
             rb.linearVelocity = new Vector2(-1, 0) * speed;
+
+            GetComponent<Animator>().SetBool("Left", true);
         }
         if(Input.GetKey(KeyCode.A) && Input.GetKey(KeyCode.W))
         {
@@ -57,6 +65,29 @@ public class Movement : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(-1, -1) * speed;
         }
+        if (Input.GetKeyUp(KeyCode.W))
+        {
+            rb.linearVelocity = new Vector2(0, 1) * speed;
 
+            GetComponent<Animator>().SetBool("Up", false);
+        }
+        if (Input.GetKeyUp(KeyCode.S))
+        {
+            rb.linearVelocity = new Vector2(0, -1) * speed;
+
+            GetComponent<Animator>().SetBool("Down", false);
+        }
+        if (Input.GetKeyUp(KeyCode.D))
+        {
+            rb.linearVelocity = new Vector2(1, 0) * speed;
+
+            GetComponent<Animator>().SetBool("Right", false);
+        }
+        if (Input.GetKeyUp(KeyCode.A))
+        {
+            rb.linearVelocity = new Vector2(-1, 0) * speed;
+
+            GetComponent<Animator>().SetBool("Left", false);
+        }
     }
 }
