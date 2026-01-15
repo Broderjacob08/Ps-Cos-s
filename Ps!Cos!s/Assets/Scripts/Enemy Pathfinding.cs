@@ -15,36 +15,30 @@ public class EnemyPathfinding : MonoBehaviour
     [SerializeField] CheckpointParent checkpointHolder;
     [SerializeField] Movement player;
 
-    //public EnemyPathfinding(CheckpointParent checkpointHolder) 
-    //{
-      //  this.checkpointHolder = checkpointHolder;
-    //}
-
     Rigidbody2D rb;
+    Vector3 chasing;
     
     void Start()
     {
         chasingplayer = false;
-        rb = GetComponent<Rigidbody2D>();
-        
+        rb = GetComponent<Rigidbody2D>();    
     }
 
     // Update is called once per frame
     void Update()
     {
         Debug.Log(checkpointHolder.GetIndex());
-        
-        if(chasingplayer == false)
+        if (chasingplayer == false)
         {
-            transform.rotation = Quaternion.Euler(0, 0, Vector2.SignedAngle(Vector2.right, rb.linearVelocity));
-            Debug.Log("Checkpoint " + checkpointHolder.checkpoints[checkpointHolder.GetIndex()]);
-            rb.linearVelocity = (checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position - transform.position).normalized * speed;
-            print("velocity: " + rb.linearVelocity);
+            SetChasing(checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position);
         } else
         {
-            transform.rotation = Quaternion.Euler(0, 0, Vector2.SignedAngle(Vector2.up, rb.linearVelocity));
-            rb.linearVelocity = (player.transform.position - transform.position).normalized * speed;
+            SetChasing(player.transform.position);
         }
+
+        transform.rotation = Quaternion.Euler(0, 0, Vector2.SignedAngle(Vector2.right, rb.linearVelocity));
+        rb.linearVelocity = (chasing - transform.position);
+        
     }
 
     void SetChasePlayer(bool huntmode)
@@ -66,5 +60,10 @@ public class EnemyPathfinding : MonoBehaviour
         {
             SetChasePlayer(false);
         }
+    }
+
+    void SetChasing(Vector3 currentlychasing)
+    {
+        chasing = currentlychasing;
     }
 }
