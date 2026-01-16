@@ -24,6 +24,7 @@ public class NPC_Dialogue : MonoBehaviour
         if (isPlayerNearby == true && Input.GetKeyDown(KeyCode.E))
         {
 
+            
             print("Intereacted");
             
             if (!dialogueText.activeSelf)
