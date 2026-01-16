@@ -44,20 +44,29 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
+  - name: Wall
     uniqueID: 3464136697
     locked: 0
-  - name: NPC
+  - name: Floor
     uniqueID: 1760673525
     locked: 0
-  - name: corridor
+  - name: things
+    uniqueID: 1995329687
+    locked: 0
+  - name: Shadow
+    uniqueID: 3826013543
+    locked: 0
+  - name: NPC
     uniqueID: 2675133829
     locked: 0
-  - name: Player
+  - name: corridor
     uniqueID: 3060468135
     locked: 0
-  - name: Item
+  - name: Player2
     uniqueID: 1144789467
+    locked: 0
+  - name: Item
+    uniqueID: 2071825919
     locked: 0
   m_RenderingLayers:
   - Default
