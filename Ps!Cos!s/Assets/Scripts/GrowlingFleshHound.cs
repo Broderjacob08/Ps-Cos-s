@@ -14,11 +14,21 @@ public class FleshHoundNoises : MonoBehaviour
         }
         
     }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Walking.enabled = true;
+        Growling.enabled = true;
+    }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        Walking.enabled = false;
+        Growling.enabled = false;
+    }
 
     // Update is called once per frame
     void Update()
     {
-        if (Growling.isPlaying == false && time == 500)
+        if (Growling.isPlaying == false && time == 1000)
         {
             Growling.Play();
         }

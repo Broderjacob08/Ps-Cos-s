@@ -11,6 +11,7 @@ public class NPC_Dialogue : MonoBehaviour
     
     int index = 0;
 
+    public AudioSource Hey;
 
     void Start()
     {
@@ -23,7 +24,7 @@ public class NPC_Dialogue : MonoBehaviour
 
         if (isPlayerNearby == true && Input.GetKeyDown(KeyCode.E))
         {
-
+            Hey.Play();
             
             print("Intereacted");
             
