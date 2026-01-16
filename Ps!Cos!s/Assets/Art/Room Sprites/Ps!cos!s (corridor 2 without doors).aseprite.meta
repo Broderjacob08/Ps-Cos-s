@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ed93ae4fc7874fd43bab8d42203b147e
+guid: eba688f13f2a24446878670c347717b3
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -74,7 +74,7 @@ ScriptedImporter:
   previousAsepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
-    layerImportMode: 1
+    layerImportMode: 0
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
@@ -89,7 +89,7 @@ ScriptedImporter:
   asepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
-    layerImportMode: 1
+    layerImportMode: 0
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
@@ -102,7 +102,7 @@ ScriptedImporter:
     generateIndividualEvents: 1
     generateSpriteAtlas: 1
   importFileNodeState: 1
-  platformSettingsDirtyTick: 0
+  platformSettingsDirtyTick: 639041662947434217
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -127,7 +127,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: keycard
+  - name: Colour
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -137,9 +137,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 50
-      height: 22
-    spriteID: 2cf8af0166f5b2849ad91ad51add2bd2
+      width: 320
+      height: 160
+    spriteID: 190ed7dd93963a04584dde7480316707
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -148,38 +148,170 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
+  - name: Colour floor
+    originalName: 
+    pivot: {x: 0.5, y: -0.41509435}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 318
+      width: 320
+      height: 53
+    spriteID: 8b7004329f726274dab7b6cae131c1a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 318}
+  - name: Colour floor_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.15942028}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 172
+      width: 320
+      height: 138
+    spriteID: b90b927177dd126489b7854ce65356de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 172}
   spriteSheetImportData: []
   tileSetImportData: []
   asepriteLayers:
-  - layerIndex: 0
+  - layerIndex: 3
     uuid:
-      value0: 1280390823
+      value0: 453764210
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: keycard
-    layerFlags: 0
+    name: Colour
+    layerFlags: 3
     layerType: 0
     blendMode: 0
     cells:
-    - name: keycard
+    - name: Colour
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
-        width: 50
-        height: 22
-      spriteId: 2cf8af0166f5b2849ad91ad51add2bd2
+        width: 320
+        height: 160
+      spriteId: 190ed7dd93963a04584dde7480316707
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 4
+    uuid:
+      value0: 1477445176
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Colour floor
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Colour floor
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 22
+        width: 320
+        height: 53
+      spriteId: 8b7004329f726274dab7b6cae131c1a5
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 5
+    uuid:
+      value0: 939752244
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Colour floor_1
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Colour floor_1
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 22
+        width: 320
+        height: 138
+      spriteId: b90b927177dd126489b7854ce65356de
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 11
+    uuid:
+      value0: 2811683509
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Doors
+    layerFlags: 35
+    layerType: 1
+    blendMode: 0
+    cells: []
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
     parentIndex: -1
   tileSets: []
-  platformSettings: []
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 50, y: 50}
-  previousTextureSize: {x: 64, y: 32}
+  canvasSize: {x: 320, y: 160}
+  previousTextureSize: {x: 512, y: 512}

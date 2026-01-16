@@ -130,7 +130,6 @@ GameObject:
   - component: {fileID: 29455401}
   - component: {fileID: 29455400}
   - component: {fileID: 29455402}
-  - component: {fileID: 29455403}
   m_Layer: 0
   m_Name: Exit Door
   m_TagString: Untagged
@@ -257,18 +256,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &29455403
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 29455399}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3fac5fde1ed8c5d43adf2bcdd8253c5c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
 --- !u!1 &47045455
 GameObject:
   m_ObjectHideFlags: 0
@@ -1112,7 +1099,7 @@ GameObject:
   - component: {fileID: 832563448}
   - component: {fileID: 832563447}
   m_Layer: 7
-  m_Name: Grabben
+  m_Name: Sam
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1170,8 +1157,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 3, y: 4}
+  m_Offset: {x: -0.015, y: 0.23}
+  m_Size: {x: 0.5, y: 0.8}
   m_Direction: 0
 --- !u!50 &832563449
 Rigidbody2D:
@@ -1244,11 +1231,11 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 1760673525
-  m_SortingLayer: 2
+  m_SortingLayerID: -1619833467
+  m_SortingLayer: 5
   m_SortingOrder: 0
-  m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
-  m_Color: {r: 0.8263153, g: 0.5647059, b: 1, a: 1}
+  m_Sprite: {fileID: 6081488793946075391, guid: 8adea10b598123447b17cc719c6725fc, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1268,7 +1255,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -6.5, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1737881647}
@@ -1847,7 +1834,6 @@ GameObject:
   - component: {fileID: 1130703330}
   - component: {fileID: 1130703329}
   - component: {fileID: 1130703328}
-  - component: {fileID: 1130703327}
   m_Layer: 0
   m_Name: Random door
   m_TagString: Untagged
@@ -1855,18 +1841,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1130703327
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1130703326}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3fac5fde1ed8c5d43adf2bcdd8253c5c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
 --- !u!61 &1130703328
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2672,7 +2646,7 @@ Transform:
   m_GameObject: {fileID: 1524611911}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -5, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3283,19 +3257,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 8e42255ca323a7644a3e544b3d91a2ae, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 8e42255ca323a7644a3e544b3d91a2ae, type: 3}
       propertyPath: m_LocalScale.y
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 8e42255ca323a7644a3e544b3d91a2ae, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.6669388
+      value: -3.1669388
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 8e42255ca323a7644a3e544b3d91a2ae, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8.18275
+      value: -6.1827497
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 8e42255ca323a7644a3e544b3d91a2ae, type: 3}
       propertyPath: m_LocalPosition.z

@@ -1,0 +1,961 @@
+fileFormatVersion: 2
+guid: eb290ddb8f8b09a4f90fdf05ef4191ac
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+    generateIndividualEvents: 1
+    generateSpriteAtlas: 1
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+    generateIndividualEvents: 1
+    generateSpriteAtlas: 1
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 639041662719642541
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Walls
+    originalName: 
+    pivot: {x: 0.49828178, y: -0.10616438}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 719
+      width: 291
+      height: 292
+    spriteID: aae315e23061e8643ac4061f90872ace
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 719}
+  - name: Floor
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.15337424}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 4
+      width: 272
+      height: 163
+    spriteID: 63cefccf4cbeadc4ebd20cea92fef544
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 4}
+  - name: Light floor
+    originalName: 
+    pivot: {x: 0.49632356, y: -0.15337424}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 175
+      width: 272
+      height: 163
+    spriteID: 2a0abae91c1656948858df43c6fe0b24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 175}
+  - name: Edges
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 382
+      width: 320
+      height: 329
+    spriteID: 96dc01ba78fee844d9369fff71b3e26e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 382}
+  - name: Door
+    originalName: 
+    pivot: {x: -6.222223, y: -1.3387097}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1002
+      y: 4
+      width: 18
+      height: 62
+    spriteID: 4f729c520422a8c4893d2fc0b9a76095
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1002, y: 4}
+  - name: Layer 3
+    originalName: 
+    pivot: {x: -28.249998, y: -28.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 994
+      y: 150
+      width: 4
+      height: 4
+    spriteID: 423558b68d801384b8d2c52328c79b9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 994, y: 150}
+  - name: Shadows
+    originalName: 
+    pivot: {x: 0.50757575, y: -0.22510822}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 4
+      width: 264
+      height: 231
+    spriteID: c1609589373270b45bc6b10fa9f0e495
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 4}
+  - name: Morgue colour
+    originalName: 
+    pivot: {x: 0.18238993, y: -1.3539824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 346
+      width: 159
+      height: 113
+    spriteID: d4a6f26fc6d45d9449169218038a5b18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 346}
+  - name: Roller
+    originalName: 
+    pivot: {x: 1.6153847, y: -1.5223881}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 884
+      y: 78
+      width: 78
+      height: 67
+    spriteID: a37251d5cccd1714caa219cce3990240
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 884, y: 78}
+  - name: Big cabinet
+    originalName: 
+    pivot: {x: 3.3783782, y: -2.734375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 970
+      y: 78
+      width: 37
+      height: 64
+    spriteID: 48ff08ee530b8714abe26d68c72b573e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 78}
+  - name: Glass cabinet
+    originalName: 
+    pivot: {x: 2.3783784, y: -2.734375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 884
+      y: 228
+      width: 37
+      height: 64
+    spriteID: bb15d7f2095f584459c98a1c4a7f2413
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 884, y: 228}
+  - name: cabinet glass
+    originalName: 
+    pivot: {x: 2.7419355, y: -3.3773587}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 929
+      y: 228
+      width: 31
+      height: 53
+    spriteID: 77549372ec9e9ef44a8c187687f20030
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 929, y: 228}
+  - name: Squid
+    originalName: 
+    pivot: {x: -1.4374995, y: -26.857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 970
+      y: 150
+      width: 16
+      height: 7
+    spriteID: ab1cf4c0acd29d8428cfd63196859ca2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 150}
+  - name: Draining place
+    originalName: 
+    pivot: {x: 0.37373734, y: -1.1777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 884
+      y: 175
+      width: 99
+      height: 45
+    spriteID: e839aa85b3aa91f4a9eabdb3e235d9b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 884, y: 175}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.50757575, y: -17.866667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 467
+      width: 264
+      height: 15
+    spriteID: 476b804f69da5ac419b91d597298e095
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 467}
+  - name: corpse
+    originalName: 
+    pivot: {x: 0.6, y: -1.7121212}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 884
+      y: 4
+      width: 110
+      height: 66
+    spriteID: 034b54d72c3c46d479e66c8793476661
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 884, y: 4}
+  - name: Shade
+    originalName: 
+    pivot: {x: 0.5, y: 0.06486487}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 320
+      height: 370
+    spriteID: 1161b08224b3f244d8e026f4b5870613
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  spriteSheetImportData: []
+  tileSetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    uuid:
+      value0: 332801758
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Background
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells: []
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 2
+    uuid:
+      value0: 593505845
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Walls
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Walls
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 31
+        width: 291
+        height: 292
+      spriteId: aae315e23061e8643ac4061f90872ace
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 3
+    uuid:
+      value0: 1776489660
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Floor
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Floor
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 25
+        width: 272
+        height: 163
+      spriteId: 63cefccf4cbeadc4ebd20cea92fef544
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 4
+    uuid:
+      value0: 3260281540
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Light floor
+    layerFlags: 3
+    layerType: 0
+    blendMode: 10
+    cells:
+    - name: Light floor
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 25
+        width: 272
+        height: 163
+      spriteId: 2a0abae91c1656948858df43c6fe0b24
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 5
+    uuid:
+      value0: 1453753128
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Edges
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Edges
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 320
+        height: 329
+      spriteId: 96dc01ba78fee844d9369fff71b3e26e
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 6
+    uuid:
+      value0: 2624099526
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Door
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Door
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 272
+        y: 83
+        width: 18
+        height: 62
+      spriteId: 4f729c520422a8c4893d2fc0b9a76095
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 7
+    uuid:
+      value0: 4287466678
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Layer 3
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Layer 3
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 273
+        y: 115
+        width: 4
+        height: 4
+      spriteId: 423558b68d801384b8d2c52328c79b9b
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 8
+    uuid:
+      value0: 1205848513
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Shadows
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Shadows
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 52
+        width: 264
+        height: 231
+      spriteId: c1609589373270b45bc6b10fa9f0e495
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 10
+    uuid:
+      value0: 1319163319
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Morgue colour
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Morgue colour
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 131
+        y: 153
+        width: 159
+        height: 113
+      spriteId: d4a6f26fc6d45d9449169218038a5b18
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 11
+    uuid:
+      value0: 1475417506
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Roller
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Roller
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 102
+        width: 78
+        height: 67
+      spriteId: a37251d5cccd1714caa219cce3990240
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 12
+    uuid:
+      value0: 2063524128
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Big cabinet
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Big cabinet
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 175
+        width: 37
+        height: 64
+      spriteId: 48ff08ee530b8714abe26d68c72b573e
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 13
+    uuid:
+      value0: 3570739358
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Glass cabinet
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Glass cabinet
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 72
+        y: 175
+        width: 37
+        height: 64
+      spriteId: bb15d7f2095f584459c98a1c4a7f2413
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 14
+    uuid:
+      value0: 3867547070
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: cabinet glass
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: cabinet glass
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 75
+        y: 179
+        width: 31
+        height: 53
+      spriteId: 77549372ec9e9ef44a8c187687f20030
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 15
+    uuid:
+      value0: 2092594264
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Squid
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Squid
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 183
+        y: 188
+        width: 16
+        height: 7
+      spriteId: ab1cf4c0acd29d8428cfd63196859ca2
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 16
+    uuid:
+      value0: 1580060355
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Draining place
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Draining place
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 123
+        y: 53
+        width: 99
+        height: 45
+      spriteId: e839aa85b3aa91f4a9eabdb3e235d9b9
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 17
+    uuid:
+      value0: 4287466680
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Layer 1
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Layer 1
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 268
+        width: 264
+        height: 15
+      spriteId: 476b804f69da5ac419b91d597298e095
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 18
+    uuid:
+      value0: 3088764930
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: corpse
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: corpse
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 94
+        y: 113
+        width: 110
+        height: 66
+      spriteId: 034b54d72c3c46d479e66c8793476661
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  - layerIndex: 19
+    uuid:
+      value0: 775078239
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
+    name: Shade
+    layerFlags: 3
+    layerType: 0
+    blendMode: 17
+    cells:
+    - name: Shade
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: -24
+        width: 320
+        height: 370
+      spriteId: 1161b08224b3f244d8e026f4b5870613
+    linkedCells: []
+    tileCells: []
+    tileSetIndex: 0
+    parentIndex: -1
+  tileSets: []
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 320, y: 322}
+  previousTextureSize: {x: 1024, y: 1024}
