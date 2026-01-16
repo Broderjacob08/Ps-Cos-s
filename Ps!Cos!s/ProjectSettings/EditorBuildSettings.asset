@@ -14,5 +14,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EscapeScene.unity
     guid: 9dd0867adecf8dd4f86ce85b82affd18
+  - enabled: 1
+    path: Assets/Scenes/DeathScene.unity
+    guid: 4a0ad1766ff0db0419c7de8c7cfb3cd0
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
