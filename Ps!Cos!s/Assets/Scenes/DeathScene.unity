@@ -131,6 +131,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: death flesh
       objectReference: {fileID: 0}
+    - target: {fileID: 1160356261127867848, guid: 219fc4e670cbeaf44a31b2d106512d4c, type: 3}
+      propertyPath: m_AnimatePhysics
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1160356261127867848, guid: 219fc4e670cbeaf44a31b2d106512d4c, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 219fc4e670cbeaf44a31b2d106512d4c, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.79
