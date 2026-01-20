@@ -35,7 +35,7 @@ public class EnemyPathfinding : MonoBehaviour
             SetChasing(player.transform.position);
         }
 
-        transform.rotation = Quaternion.Euler(0, 0, Vector2.SignedAngle(Vector2.up, rb.linearVelocity));
+        transform.rotation = Quaternion.Euler(0, 0, Vector2.SignedAngle(Vector2.right, rb.linearVelocity));
         rb.linearVelocity = (chasing - transform.position).normalized * speed;
         
     }
