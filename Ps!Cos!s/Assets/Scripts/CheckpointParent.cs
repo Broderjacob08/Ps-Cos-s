@@ -36,14 +36,14 @@ public class CheckpointParent : MonoBehaviour
         
     }
 
-    public void SetIndex(int newIndex)
+    public void SetIndex()
     {
         if(goforward == true)
         {
-            index += newIndex;
+            index += 1;
         }else if (goforward == false)
         {
-            index -= newIndex;
+            index -= 1;
         }
 
         if (goInCircles == true)

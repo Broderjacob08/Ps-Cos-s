@@ -27,7 +27,6 @@ public class EnemyPathfinding : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(checkpointHolder.GetIndex());
         if (chasingplayer == false)
         {
             SetChasing(checkpointHolder.checkpoints[checkpointHolder.GetIndex()].transform.position);
