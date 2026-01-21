@@ -82,7 +82,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 6154911077763807978, guid: 5ee47455dde9a234ca83ab326848c3ab, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.9916124, b: 0.7647315, a: 0.39607844}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -104,7 +104,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 506df85464ac2a048ba27d470a9b779e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Flashlight
-  player: {fileID: 0}
   Light: {fileID: 7063422257135958444}
   on: {fileID: 7350135561233226955, guid: 9b7de6c122a2df042913281db1abb09f, type: 3}
   off: {fileID: 6154911077763807978, guid: 5ee47455dde9a234ca83ab326848c3ab, type: 3}
