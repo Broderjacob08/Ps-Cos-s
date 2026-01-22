@@ -53,11 +53,11 @@ TagManager:
   - name: Wall
     uniqueID: 3464136697
     locked: 0
-  - name: Floor edge
-    uniqueID: 831906529
-    locked: 0
   - name: Floor
     uniqueID: 1760673525
+    locked: 0
+  - name: Floor edge
+    uniqueID: 831906529
     locked: 0
   - name: Corridor
     uniqueID: 3060468135

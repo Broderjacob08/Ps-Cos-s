@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5f1bc42466416524d9d2856fe0e7961a
+guid: 8fbbf5178a7c4eb44a4d36e90b8dcfe8
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -74,7 +74,7 @@ ScriptedImporter:
   previousAsepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
-    layerImportMode: 0
+    layerImportMode: 1
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
@@ -89,7 +89,7 @@ ScriptedImporter:
   asepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
-    layerImportMode: 0
+    layerImportMode: 1
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
@@ -102,7 +102,7 @@ ScriptedImporter:
     generateIndividualEvents: 1
     generateSpriteAtlas: 1
   importFileNodeState: 1
-  platformSettingsDirtyTick: 639041662947434217
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -127,9 +127,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Colour
+  - name: Ps!cos!s (corridor 1) 1
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: -0.38888887}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -138,8 +138,8 @@ ScriptedImporter:
       x: 4
       y: 4
       width: 320
-      height: 160
-    spriteID: e75eb57b5e7861540ad39a9449725a32
+      height: 54
+    spriteID: bf4632fc8fcdb924a9a120e34cca40dd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -148,124 +148,38 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Colour floor
-    originalName: 
-    pivot: {x: 0.5, y: -0.41509435}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 172
-      width: 320
-      height: 53
-    spriteID: cd27831848bbe8e4b858092d0a760ba0
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 172}
   spriteSheetImportData: []
   tileSetImportData: []
   asepriteLayers:
-  - layerIndex: 3
+  - layerIndex: 0
     uuid:
-      value0: 453764210
+      value0: 395075416
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: Colour
-    layerFlags: 3
+    name: Ps!cos!s (corridor 1) 1
+    layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Colour
+    - name: Ps!cos!s (floor)
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
         x: 0
-        y: 0
+        y: 21
         width: 320
-        height: 160
-      spriteId: e75eb57b5e7861540ad39a9449725a32
-    linkedCells: []
-    tileCells: []
-    tileSetIndex: 0
-    parentIndex: -1
-  - layerIndex: 4
-    uuid:
-      value0: 1477445176
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: 0
-    name: Colour floor
-    layerFlags: 3
-    layerType: 0
-    blendMode: 0
-    cells:
-    - name: Colour floor
-      frameIndex: 0
-      additiveSortOrder: 0
-      cellRect:
-        x: 0
-        y: 22
-        width: 320
-        height: 53
-      spriteId: cd27831848bbe8e4b858092d0a760ba0
-    linkedCells: []
-    tileCells: []
-    tileSetIndex: 0
-    parentIndex: -1
-  - layerIndex: 10
-    uuid:
-      value0: 2811683509
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: 0
-    name: Doors
-    layerFlags: 3
-    layerType: 1
-    blendMode: 0
-    cells: []
+        height: 54
+      spriteId: bf4632fc8fcdb924a9a120e34cca40dd
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
     parentIndex: -1
   tileSets: []
-  platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 16384
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 16384
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
+  platformSettings: []
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 320, y: 160}
-  previousTextureSize: {x: 512, y: 256}
+  previousTextureSize: {x: 512, y: 64}
