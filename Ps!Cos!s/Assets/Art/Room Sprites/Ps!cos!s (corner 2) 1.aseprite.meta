@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8fbbf5178a7c4eb44a4d36e90b8dcfe8
+guid: f5c0f87c05c336c4f97e998397542cc1
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -127,9 +127,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Ps!cos!s (corridor 1) 1
+  - name: Ps!cos!s (corner 2) 1
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.25, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -138,8 +138,8 @@ ScriptedImporter:
       x: 4
       y: 4
       width: 320
-      height: 160
-    spriteID: bf4632fc8fcdb924a9a120e34cca40dd
+      height: 320
+    spriteID: ce27bd9899d9cbe40b42258feb6c2a0a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,25 +153,25 @@ ScriptedImporter:
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 395075416
+      value0: 2341378018
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: Ps!cos!s (corridor 1) 1
+    name: Ps!cos!s (corner 2) 1
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Ps!cos!s (floor)
+    - name: Ps!cos!s (corner 2) 1
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 320
-        height: 160
-      spriteId: bf4632fc8fcdb924a9a120e34cca40dd
+        height: 320
+      spriteId: ce27bd9899d9cbe40b42258feb6c2a0a
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
@@ -181,5 +181,5 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 320, y: 160}
-  previousTextureSize: {x: 512, y: 256}
+  canvasSize: {x: 160, y: 160}
+  previousTextureSize: {x: 512, y: 512}

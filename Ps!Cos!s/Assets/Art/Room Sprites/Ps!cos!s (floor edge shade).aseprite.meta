@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2765f6440252a09469ffe43af96875ac
+guid: 7e6006ed348308d45bc9b80487b37982
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -127,9 +127,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Ps!cos!s (roof)
+  - name: Ps!cos!s (floor edge shade)
     originalName: 
-    pivot: {x: 0.5426357, y: -5.1538463}
+    pivot: {x: 0.5426357, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -138,8 +138,8 @@ ScriptedImporter:
       x: 4
       y: 4
       width: 258
-      height: 26
-    spriteID: 79fae5991c3203c48bbc17474e50795c
+      height: 22
+    spriteID: ae83f759944825e48bd353d82730f29b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,25 +153,25 @@ ScriptedImporter:
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 1343778354
+      value0: 1716199022
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: Ps!cos!s (roof)
+    name: Ps!cos!s (floor edge shade)
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Ps!cos!s (roof)
+    - name: Ps!cos!s (floor edge shade)
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
         x: 20
-        y: 134
+        y: 0
         width: 258
-        height: 26
-      spriteId: 79fae5991c3203c48bbc17474e50795c
+        height: 22
+      spriteId: ae83f759944825e48bd353d82730f29b
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
@@ -182,4 +182,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 320, y: 160}
-  previousTextureSize: {x: 512, y: 64}
+  previousTextureSize: {x: 512, y: 32}
