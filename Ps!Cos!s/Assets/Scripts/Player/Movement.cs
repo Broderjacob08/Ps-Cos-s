@@ -23,11 +23,11 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb.linearVelocity = new Vector2(0,0);
-        if (Input.GetKey(KeyCode.W))
-        {
-            rb.linearVelocity = new Vector2(0, 1) * speed;
+        Vector2 direction = new Vector2(0, 0);
 
+        if (Input.GetAxis("Vertical")>0) 
+        {
+            direction.y = 1;
             GetComponent<Animator>().SetBool("Up", true);
             if(WalkingNoises.isPlaying == false)
             {
@@ -35,10 +35,9 @@ public class Movement : MonoBehaviour
             }
             
         }
-        if (Input.GetKey(KeyCode.S))
+        if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow)) 
         {
-            rb.linearVelocity = new Vector2(0, -1) * speed;
-
+            direction.y = -1;
             GetComponent<Animator>().SetBool("Down", true);
             if(WalkingNoises.isPlaying == false)
             {
@@ -46,10 +45,9 @@ public class Movement : MonoBehaviour
             }
             
         }
-        if (Input.GetKey(KeyCode.D))
+        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
         {
-            rb.linearVelocity = new Vector2(1, 0) * speed;
-
+            direction.x = 1;
             GetComponent<Animator>().SetBool("Right", true);
 
             if(WalkingNoises.isPlaying == false)
@@ -57,10 +55,9 @@ public class Movement : MonoBehaviour
                 WalkingNoises.Play();
             }
         }
-        if (Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
         {
-            rb.linearVelocity = new Vector2(-1, 0) * speed;
-
+            direction.x = -1;
             GetComponent<Animator>().SetBool("Left", true);
 
             if(WalkingNoises.isPlaying == false)
@@ -68,54 +65,32 @@ public class Movement : MonoBehaviour
                 WalkingNoises.Play();
             }
         }
-        if(Input.GetKey(KeyCode.A) && Input.GetKey(KeyCode.W))
+        
+        if (Input.GetKeyUp(KeyCode.W) || Input.GetKeyUp(KeyCode.UpArrow))
         {
-            rb.linearVelocity = new Vector2(-1, 1) * speed;
-        }
-
-        if(Input.GetKey(KeyCode.W) && Input.GetKey(KeyCode.D))
-        {
-            rb.linearVelocity = new Vector2(1, 1) * speed;
-        }
-        if(Input.GetKey(KeyCode.D) && Input.GetKey(KeyCode.S))
-        {
-            rb.linearVelocity = new Vector2(1, -1) * speed;
-        }
-        if(Input.GetKey(KeyCode.S) && Input.GetKey(KeyCode.A))
-        {
-            rb.linearVelocity = new Vector2(-1, -1) * speed;
-        }
-        if (Input.GetKeyUp(KeyCode.W))
-        {
-            rb.linearVelocity = new Vector2(0, 1) * speed;
-
             GetComponent<Animator>().SetBool("Up", false);
 
             WalkingNoises.Stop();
         }
-        if (Input.GetKeyUp(KeyCode.S))
+        if (Input.GetKeyUp(KeyCode.S) || Input.GetKeyUp(KeyCode.DownArrow))
         {
-            rb.linearVelocity = new Vector2(0, -1) * speed;
-
             GetComponent<Animator>().SetBool("Down", false);
 
             WalkingNoises.Stop();
         }
-        if (Input.GetKeyUp(KeyCode.D))
+        if (Input.GetKeyUp(KeyCode.D) || Input.GetKeyUp(KeyCode.RightArrow))
         {
-            rb.linearVelocity = new Vector2(1, 0) * speed;
-
             GetComponent<Animator>().SetBool("Right", false);
 
             WalkingNoises.Stop();
         }
-        if (Input.GetKeyUp(KeyCode.A))
+        if (Input.GetKeyUp(KeyCode.A) || Input.GetKeyUp(KeyCode.LeftArrow))
         {
-            rb.linearVelocity = new Vector2(-1, 0) * speed;
-
             GetComponent<Animator>().SetBool("Left", false);
 
             WalkingNoises.Stop();
         }
+        
+        rb.linearVelocity = direction*speed;
     }
 }
