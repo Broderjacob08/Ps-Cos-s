@@ -35,7 +35,7 @@ public class Movement : MonoBehaviour
             }
             
         }
-        if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow)) 
+        if (Input.GetAxis("Vertical") < 0)
         {
             direction.y = -1;
             GetComponent<Animator>().SetBool("Down", true);
@@ -45,7 +45,7 @@ public class Movement : MonoBehaviour
             }
             
         }
-        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
+        if (Input.GetAxis("Horizontal") > 0)
         {
             direction.x = 1;
             GetComponent<Animator>().SetBool("Right", true);
@@ -55,7 +55,7 @@ public class Movement : MonoBehaviour
                 WalkingNoises.Play();
             }
         }
-        if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetAxis("Horizontal") < 0)
         {
             direction.x = -1;
             GetComponent<Animator>().SetBool("Left", true);
@@ -66,26 +66,16 @@ public class Movement : MonoBehaviour
             }
         }
         
-        if (Input.GetKeyUp(KeyCode.W) || Input.GetKeyUp(KeyCode.UpArrow))
+        if (Input.GetAxis("Vertical") == 0)
         {
             GetComponent<Animator>().SetBool("Up", false);
-
-            WalkingNoises.Stop();
-        }
-        if (Input.GetKeyUp(KeyCode.S) || Input.GetKeyUp(KeyCode.DownArrow))
-        {
             GetComponent<Animator>().SetBool("Down", false);
 
             WalkingNoises.Stop();
         }
-        if (Input.GetKeyUp(KeyCode.D) || Input.GetKeyUp(KeyCode.RightArrow))
+        if (Input.GetAxis("Horizontal") == 0) 
         {
             GetComponent<Animator>().SetBool("Right", false);
-
-            WalkingNoises.Stop();
-        }
-        if (Input.GetKeyUp(KeyCode.A) || Input.GetKeyUp(KeyCode.LeftArrow))
-        {
             GetComponent<Animator>().SetBool("Left", false);
 
             WalkingNoises.Stop();

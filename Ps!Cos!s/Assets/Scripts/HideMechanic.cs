@@ -14,13 +14,13 @@ public class HideMechanic : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(PlayerCanHIde == true && Input.GetKeyDown(KeyCode.H) && gameObject.layer != LayerMask.NameToLayer("Hidden"))
+        if(PlayerCanHIde == true && (Input.GetKeyDown(KeyCode.H) || Input.GetButtonDown("Fire2")) && gameObject.layer != LayerMask.NameToLayer("Hidden"))
         {
             gameObject.layer = LayerMask.NameToLayer("Hidden");
 
             print("Hidden");
         }
-        else if(gameObject.layer == LayerMask.NameToLayer("Hidden") && Input.GetKeyDown(KeyCode.H))
+        else if(gameObject.layer == LayerMask.NameToLayer("Hidden") && (Input.GetKeyDown(KeyCode.H) || Input.GetButtonDown("Fire2")))
         {
             gameObject.layer = LayerMask.NameToLayer("Default");
 
