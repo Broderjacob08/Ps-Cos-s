@@ -1041,7 +1041,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1827f1c237c8034f8fe511ac3c610f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  dialogueText: {fileID: 0}
+  dialogueText: {fileID: 1936127200}
   lines:
   - hey!
   - if you want to escape, you'll need a keycard!
@@ -14560,7 +14560,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1827f1c237c8034f8fe511ac3c610f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  dialogueText: {fileID: 0}
+  dialogueText: {fileID: 246157626}
   lines:
   - '"Congrats on getting by the Fleshound"'
   - OK. Now I've said the thing I was paid for
@@ -21746,7 +21746,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1827f1c237c8034f8fe511ac3c610f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  dialogueText: {fileID: 0}
+  dialogueText: {fileID: 1652568755}
   lines:
   - I dont know why im here
   - I was the main character of the last years project
