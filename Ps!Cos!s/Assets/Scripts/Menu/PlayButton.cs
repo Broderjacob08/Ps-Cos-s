@@ -10,7 +10,7 @@ public class PlayButton : MonoBehaviour
 
     public void OnExitClick()
     {
-        UnityEditor.EditorApplication.isPlaying = false;
+        //UnityEditor.EditorApplication.isPlaying = false;
 
         Application.Quit();
     }
